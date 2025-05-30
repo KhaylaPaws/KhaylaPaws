@@ -3,8 +3,8 @@
 [![Badge Failed](https://badgen.net/badge/Propety%20Of/Jack%20Owens%20Gallagher/pink?)](https://khaylapaws.me/abouthim)
 [![Badge Failed](https://badgen.net/badge/164cm/5'4"/pink?)](https://github.com/KhaylaPaws/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/64kg/114lb/pink?)](https://github.com/KhaylaPaws/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/%23FBBED3/pink?)](https://github.com/KhaylaPaws/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/Oct%2010%202004/pink?)](https://github.com/KhaylaPaws/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/%23FBBED3//pink?)](https://github.com/KhaylaPaws/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Oct%2010%202004//pink?)](https://github.com/KhaylaPaws/KhaylaPaws)
 
 :D Hia! :3 Im Khayla, a winterfox. A little niave and a bit dumb >.> but extra kreative and silly :3
 
