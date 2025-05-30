@@ -1,10 +1,10 @@
 # :D Hia! :3
-[![Badge Failed](https://badgen.net/badge/Female/She%2FHer%20Pet%2FSlut/color=pink)](https://github.com/KhaylaPaws/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/Propety%20Of/Jack%20Owens%20Gallagher/color=pink)](https://khaylapaws.me/abouthim)
-[![Badge Failed](https://badgen.net/badge/164cm/5'4"/color=pink)](https://github.com/KhaylaPaws/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/64kg/114lb/color=pink)](https://github.com/KhaylaPaws/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Female/She%2FHer%20Pet%2FSlut/?color=pink)](https://github.com/KhaylaPaws/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Propety%20Of/Jack%20Owens%20Gallagher/?color=pink)](https://khaylapaws.me/abouthim)
+[![Badge Failed](https://badgen.net/badge/164cm/5'4"/?color=pink)](https://github.com/KhaylaPaws/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/64kg/114lb/?color=pink)](https://github.com/KhaylaPaws/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/Color/%23FBBED3/?color=pink)](https://github.com/KhaylaPaws/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/Birthday/Oct%2010%202004/color=pink)](https://github.com/KhaylaPaws/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Birthday/Oct%2010%202004/?color=pink)](https://github.com/KhaylaPaws/KhaylaPaws)
 
 :D Hia! :3 Im Khayla, a winterfox. A little niave and a bit dumb >.> but extra kreative and silly :3
 
