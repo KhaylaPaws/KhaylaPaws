@@ -1,11 +1,10 @@
 # :D Hia! :3
-[![Badge Failed](https://badgen.net/badge/Last%20Commit/Updated/pink?)](https://github.com/KhaylaPaws/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/Female/She/Her Pet/Slut/pink?)](https://github.com/KhaylaPaws/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/Propety Of/Jack Owens Gallagher/pink?)](https://khaylapaws.me/abouthim)
+[![Badge Failed](https://badgen.net/badge/Female/She%2FHer%20Pet%2FSlut/pink?)](https://github.com/KhaylaPaws/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Propety%20Of/Jack%20Owens%20Gallagher/pink?)](https://khaylapaws.me/abouthim)
 [![Badge Failed](https://badgen.net/badge/164cm/5'4"/pink?)](https://github.com/KhaylaPaws/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/64kg/114lb/pink?)](https://github.com/KhaylaPaws/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/#FBBED3/pink?)](https://github.com/KhaylaPaws/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/Oct 10 2004/pink?)](https://github.com/KhaylaPaws/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Oct%2010%202004/pink?)](https://github.com/KhaylaPaws/KhaylaPaws)
 
 :D Hia! :3 Im Khayla, a winterfox. A little niave and a bit dumb >.> but extra kreative and silly :3
 
