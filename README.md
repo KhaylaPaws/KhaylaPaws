@@ -15,6 +15,7 @@
 :D Hia! :3 I'm Khayla, a winter fox. I love my softpink #FBBED3 with a bit of white, and other pastel colors too! I like to take pictures of nature, especially of pretty flowers. I take care of house and gardens, and I work at a cafe. I love 3d modelling and 3d printing, and coding, and tech repair and assembly, and videogames. I prefer cats, but some dogs are nice and relaxed.
 
 
-# :D Info! :3
-- Note, you can see the source repository for this bio here: [README.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/README.md)
-- And you can check out documentaion, attribution, and copyright license of this bio here: [INFORMATION.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/INFORMATION.md)
+### :D Info! :3
+You can see the source repository for this bio here: [README.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/README.md)
+
+You can check out documentaion, attribution, and copyright license of this bio here: [INFORMATION.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/INFORMATION.md)
