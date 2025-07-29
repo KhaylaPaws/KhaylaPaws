@@ -1,21 +1,42 @@
-# :D Hia! :3
-[![Badge Failed](https://badgen.net/badge/Female/She%2FHer%20Pet%2FSlut/?color=pink)](https://github.com/KhaylaPaws)
+# Hia! :D
+<!-- Info Badges: -->
+[![Badge Failed](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)](https://github.com/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Female/Pet%2FSlut%2FBitch/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/Propety%20Of/Jack%20Owens%20Gallagher/?color=pink)](https://khaylapaws.me/abouthim)
-[![Badge Failed](https://badgen.net/badge/164cm/5'4"/?color=pink)](https://github.com/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/64kg/114lb/?color=pink)](https://github.com/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/163cm/5'4"/?color=pink)](https://github.com/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/52kg/114lb/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/Color/%23FBBED3/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/Birthday/Oct%2010%202004/?color=pink)](https://github.com/KhaylaPaws)
 
-:D Hia! :3 Im Khayla, a winterfox. A little niave and a bit dumb >.> but extra kreative and silly :3
+<!-- Layout: (Pronouns) | (Lewd Pronouns) | (tattoo) | (personality) | (height and weight) | (favorite color) | (Birthday) | (status) -->
+She/Her/Hers | Pet/Slut/Bitch | Public Property | Submissive/Obedient/KnotPocket/CuddleSlut | 163cm/5'4" 52kg/114lb | Pink/White | Oct 10 2004 | Bleh
 
-# :D About me! :3
+<!-- Bios (However many lines fit) -->
+Hii! :D I'm Khayla! Subby Fox Girl, Open DMs
+<!-- Primary Greeting, 54/60 54/60 -->
+
+Loves Pink, Flowers, Gaming, VR, 3DModel and 3DPrint :3
+Also very kreative, a little naive, and a bit dumb >.>
+<!-- Primary Bio 55/60 109/120 -->
+<!-- Secondary bios, 54/60 163/180 -->
+
+# About me! :D
 
 ![Image Failed to Load](./assets/profile.jpeg)
 
-:D Hia! :3 I'm Khayla, a winter fox. I love my softpink #FBBED3 with a bit of white, and other pastel colors too! I like to take pictures of nature, especially of pretty flowers. I take care of house and gardens, and I work at a cafe. I love 3d modelling and 3d printing, and coding, and tech repair and assembly, and videogames. I prefer cats, but some dogs are nice and relaxed.
+### Info! :D
+This bio is actually a readme of my special respository. You can veiw my special respository here: [README.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/README.md)
 
+There is some documentaion, attribution, and copyright license info to be found here: [INFORMATION.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/INFORMATION.md)
 
-### :D Info! :3
-You can see the source repository for this bio here: [README.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/README.md)
+# Socials! :D
+<!-- Social Links -->
+[![Badge Failed](https://badgen.net/badge/Website/khaylapaws.me/?color=pink)](https://github.com/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Github/KhaylaPaws/?color=pink)](https://github.com/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Discord%20Server/IDK/?color=pink)](https://github.com/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Discord/KhaylaPaws/?color=pink)](https://github.com/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Reddit/KhaylaPaws/?color=pink)](https://github.com/KhaylaPaws)
 
-You can check out documentaion, attribution, and copyright license of this bio here: [INFORMATION.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/INFORMATION.md)
+# Gaming Usernames! :D
+<!-- Gaming Links -->
+[![Badge Failed](https://badgen.net/badge/Most/KhaylaPaws/?color=pink)](https://github.com/KhaylaPaws)
