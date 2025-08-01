@@ -30,7 +30,7 @@ This bio is actually a readme of my special respository. You can veiw my special
 There is some documentaion, attribution, and copyright license info to be found here: [INFORMATION.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/INFORMATION.md)
 
 # Socials! :D
-<!-- Social Links
+<!-- Social Links -->
 [![Badge Failed](https://badgen.net/badge/Website/khaylapaws.me/?color=pink)](https://khaylapaws.me)
 [![Badge Failed](https://badgen.net/badge/Github/KhaylaPaws/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/Discord%20Server/IDK/?color=pink)](https://discord.com/invite/RHbhhmF8An)
