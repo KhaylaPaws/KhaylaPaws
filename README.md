@@ -1,4 +1,15 @@
 # Hia! :D
+<!-- Bios (However many lines fit) -->
+Hii! :D I'm Khayla! Subby FoxGirl, Open DMs
+<!-- Primary Greeting, 53/60 53/60 -->
+
+Loves Pink, Flowers, Gaming, VR, 3DModel and 3DPrint :3
+
+Also very kreative, a little naive, and a bit dumb >.>
+<!-- Primary Bio 55/60 108/120 -->
+<!-- Secondary bios, 54/60 162/180 -->
+
+# About me! :D
 <!-- Info Badges: -->
 [![Badge Failed](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/Lewd/Pet%2FSlut%2FBitch/?color=pink)](https://github.com/KhaylaPaws)
@@ -10,17 +21,7 @@
 <!-- Layout: (Pronouns) | (Lewd Pronouns) | (owner) | (height and weight) | (favorite color) | (Birthday) | (status) -->
 <!-- Badges: She/Her/Hers | Pet/Slut/Bitch | Public Property | 163cm/5'4" 52kg/114lb | Pink/White | Oct 10 2004 | Bleh -->
 
-<!-- Bios (However many lines fit) -->
-Hii! :D I'm Khayla! Subby FoxGirl, Open DMs
-<!-- Primary Greeting, 53/60 53/60 -->
-
-Loves Pink, Flowers, Gaming, VR, 3DModel and 3DPrint :3
-Also very kreative, a little naive, and a bit dumb >.>
-<!-- Primary Bio 55/60 108/120 -->
-<!-- Secondary bios, 54/60 162/180 -->
-
-# About me! :D
-
+<!-- Image -->
 ![Image Failed to Load](./assets/profile.jpeg)
 
 # Socials! :D
@@ -35,13 +36,9 @@ Also very kreative, a little naive, and a bit dumb >.>
 <!-- Traits -->
 <!-- Submissive/Obedient/KnotPocket/CuddleSlut -->
 
-# Gaming Usernames! :D
-<!-- Gaming Links -->
-[![Badge Failed](https://badgen.net/badge/Most/KhaylaPaws/?color=pink)](https://github.com/KhaylaPaws)
-
 # Info! :D
-This bio is actually a readme of my special respository. You can veiw my special respository here: [README.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/README.md)
+This bio is actually a readme of my special respository: [README.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/README.md)
 
-There is some documentaion, attribution, and copyright license info to be found here: [INFORMATION.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/INFORMATION.md)
+Focumentaion, attribution, and copyright license info: [INFORMATION.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/INFORMATION.md)
 
-The direct link to the copyright license is here: [LICENSE.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/LICENSE.md)
+Direct copyright license link: [LICENSE.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/LICENSE.md)
