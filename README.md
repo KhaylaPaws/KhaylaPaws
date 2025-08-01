@@ -1,9 +1,9 @@
 # Hia! :D
 <!-- Info Badges: -->
 [![Badge Failed](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)](https://github.com/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/Female/Pet%2FSlut%2FBitch/?color=pink)](https://github.com/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/Public%20Propety/?color=pink)](https://github.com/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/Submissive%2FObedient%2FKnotPocket%2FCuddleSlut/?color=pink)](https://github.com/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Lewd/Pet%2FSlut%2FBitch/?color=pink)](https://github.com/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Owner/Public%20Propety/?color=pink)](https://github.com/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Traits/Submissive%2FObedient%2FKnotPocket%2FCuddleSlut/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/163cm/5'4"/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/52kg/114lb/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/Color/%23FBBED3/?color=pink)](https://github.com/KhaylaPaws)
@@ -30,13 +30,12 @@ This bio is actually a readme of my special respository. You can veiw my special
 There is some documentaion, attribution, and copyright license info to be found here: [INFORMATION.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/INFORMATION.md)
 
 # Socials! :D
-<!-- Social Links (DL=deep links within links)(SL=surface links the links in this MD) -->
-<!-- DL --><!-- SL -->
-<!-- no --><!-- no --> [![Badge Failed](https://badgen.net/badge/Website/khaylapaws.me/?color=pink)](https://khaylapaws.me)
-<!-- no --><!-- no --> [![Badge Failed](https://badgen.net/badge/Github/KhaylaPaws/?color=pink)](https://github.com/KhaylaPaws)
-<!-- no --><!-- ya --> [![Badge Failed](https://badgen.net/badge/Discord%20Server/IDK/?color=pink)](https://discord.com/invite/RHbhhmF8An)
-<!-- no --><!-- ya --> [![Badge Failed](https://badgen.net/badge/Discord/KhaylaPaws/?color=pink)](http://discord.com/users/1367264632841961533)
-<!-- no --><!-- no --> [![Badge Failed](https://badgen.net/badge/Reddit/KhaylaPaws/?color=pink)](https://github.com/KhaylaPaws)
+<!-- Social Links
+[![Badge Failed](https://badgen.net/badge/Website/khaylapaws.me/?color=pink)](https://khaylapaws.me)
+[![Badge Failed](https://badgen.net/badge/Github/KhaylaPaws/?color=pink)](https://github.com/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Discord%20Server/IDK/?color=pink)](https://discord.com/invite/RHbhhmF8An)
+[![Badge Failed](https://badgen.net/badge/Discord/KhaylaPaws/?color=pink)](http://discord.com/users/1367264632841961533)
+[![Badge Failed](https://badgen.net/badge/Reddit/KhaylaPaws/?color=pink)](https://github.com/KhaylaPaws)
 
 # Gaming Usernames! :D
 <!-- Gaming Links -->
