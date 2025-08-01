@@ -3,11 +3,12 @@
 Hii! :D I'm Khayla! Subby FoxGirl, Open DMs
 <!-- Primary Greeting, 53/60 53/60 -->
 
-Loves Pink, Flowers, Gaming, VR, 3DModel and 3DPrint :3
-
-Also very kreative, a little naive, and a bit dumb >.>
+    Loves Pink, Gaming, VR, Flowers and Cuddles :3
+    Also very kreative, a little naive, and a bit dumb >.>
+    I kreate art, code, 3d models, and 3d prints :D
 <!-- Primary Bio 55/60 108/120 -->
 <!-- Secondary bios, 54/60 162/180 -->
+<!-- Third bio, 
 
 # About me! :D
 <!-- Info Badges: -->
@@ -38,7 +39,9 @@ Also very kreative, a little naive, and a bit dumb >.>
 # Info! :D
 This bio is actually a readme of my special respository: [README.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/README.md)
 
-Focumentaion, attribution, copyright license, and other info: [INFORMATION.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/INFORMATION.md)
+Focumentaion, attribution, and other info: [INFORMATION.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/INFORMATION.md)
+
+# Copyright
 
 Copyright © KhaylaPaws 2025. All rights reserved.
 

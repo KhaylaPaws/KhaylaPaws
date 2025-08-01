@@ -6,9 +6,9 @@ This repository is a special one, it displays on my github profile. It has no ot
 Uses Badgen to display custom badges around my profile. its documentation is here: LINK
 
 # Attribution
-All Icons by KhaylaPaws
-Profile by KhaylaPaws
-Badge function by Badgen
+- All Icons by KhaylaPaws
+- Profile by KhaylaPaws
+- Badge function by Badgen
 
 # Copyright
 Copyright © KhaylaPaws 2025. All rights reserved.
