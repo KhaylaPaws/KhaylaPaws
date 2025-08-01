@@ -12,17 +12,19 @@ Also very kreative, a little naive, and a bit dumb >.>
 # About me! :D
 <!-- Info Badges: -->
 [![Badge Failed](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)](https://github.com/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/Lewd/Pet%2FSlut%2FBitch/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/Owner/Public%20Propety/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/163cm/5'4"/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/52kg/114lb/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/Color/%23FBBED3/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/Birthday/Oct%2010%202004/?color=pink)](https://github.com/KhaylaPaws)
-<!-- Layout: (Pronouns) | (Lewd Pronouns) | (owner) | (height and weight) | (favorite color) | (Birthday) | (status) -->
-<!-- Badges: She/Her/Hers | Pet/Slut/Bitch | Public Property | 163cm/5'4" 52kg/114lb | Pink/White | Oct 10 2004 | Bleh -->
+<!-- Layout: (Pronouns) | (owner) | (height and weight) | (favorite color) | (Birthday) | (status) -->
+<!-- Badges: She/Her/Hers | Public Property | 163cm/5'4" 52kg/114lb | Pink/White | Oct 10 2004 | Bleh -->
 
 <!-- Image -->
 ![Image Failed to Load](./assets/profile.jpeg)
+
+<!-- Trait List --> <!-- Submissive/Obedient/KnotPocket/CuddleSlut -->
+<!-- Kink List -->
 
 # Socials! :D
 <!-- Social Links -->
@@ -33,12 +35,14 @@ Also very kreative, a little naive, and a bit dumb >.>
 [![Badge Failed](https://badgen.net/badge/Steam/khaylapaws/?color=pink)](https://steamcommunity.com/id/khaylapaws)
 [![Badge Failed](https://badgen.net/badge/Reddit/U%2FKhaylaPaws/?color=pink)](https://www.reddit.com/user/KhaylaPaws)
 
-<!-- Traits -->
-<!-- Submissive/Obedient/KnotPocket/CuddleSlut -->
-
 # Info! :D
 This bio is actually a readme of my special respository: [README.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/README.md)
 
-Focumentaion, attribution, and copyright license info: [INFORMATION.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/INFORMATION.md)
+Focumentaion, attribution, copyright license, and other info: [INFORMATION.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/INFORMATION.md)
 
-Direct copyright license link: [LICENSE.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/LICENSE.md)
+Copyright © KhaylaPaws 2025. All rights reserved.
+
+License file: [LICENSE.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/LICENSE.md)
+
+No part of this repository may be copied, modified, distributed, or used in any form without explicit written permission from KhaylaPaws.
+

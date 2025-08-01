@@ -1,11 +1,18 @@
 # Documentation
-This repository is a special one, it displays on my github profile. It has no other purpose. There is no code, just some icons and images I made, for use as my profile and to add to the readme. No one is allowed to do anything with the contents of this repository
+### Purpose
+This repository is a special one, it displays on my github profile. It has no other purpose. There is no code, just some icons and images I made, for use as my profile and bio to add to the readme
+
+### Badges
+Uses Badgen to display custom badges around my profile. its documentation is here: LINK
 
 # Attribution
-Icos by me
-Profile by me
+All Icons by KhaylaPaws
+Profile by KhaylaPaws
+Badge function by Badgen
 
 # Copyright
-Copyright (c) 2025 KhaylaPaws
+Copyright © KhaylaPaws 2025. All rights reserved.
 
-All rights reserved. No part of this repository may be copied, modified, distributed, or used without explicit permission from the owner.
+License file: [LICENSE.md](./LICENSE.md)
+
+No part of this repository may be copied, modified, distributed, or used in any form without explicit written permission from KhaylaPaws.
