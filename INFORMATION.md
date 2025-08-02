@@ -3,7 +3,7 @@
 This repository is a special one, it displays on my github profile. It has no other purpose. There is no code, just some icons and images I made, for use as my profile and bio to add to the readme
 
 ### Badges
-Uses Badgen to display custom badges around my profile. its documentation is here: LINK
+Uses Badgen to display custom badges around my profile. its documentation is here: [https://badgen.net](https://badgen.net)
 
 # Attribution
 - All Icons by KhaylaPaws
@@ -13,6 +13,6 @@ Uses Badgen to display custom badges around my profile. its documentation is her
 # Copyright
 Copyright © KhaylaPaws 2025. All rights reserved.
 
-License file: [LICENSE.md](./LICENSE.md)
+License file: [LICENSE.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/LICENSE.md)
 
 No part of this repository may be copied, modified, distributed, or used in any form without explicit written permission from KhaylaPaws.
