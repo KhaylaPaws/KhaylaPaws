@@ -30,7 +30,7 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 <!-- Social Links -->
 [![Badge Failed](https://badgen.net/badge/Website/khaylapaws.me/?color=pink)](https://khaylapaws.me)
 <a href="https://github.com/KhaylaPaws">
-  <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=fbbed3&logo=github&logoColor=black&style=flat" height="64">
+  <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=fbbed3&logo=github&logoColor=black&style=flat" height="50">
 </a>
 [![Badge Failed](https://badgen.net/badge/Discord%20Server/RHbhhmF8An/?color=pink)](https://discord.com/invite/RHbhhmF8An)
 [![Badge Failed](https://badgen.net/badge/Discord/KhaylaPaws/?color=pink)](http://discord.com/users/1367264632841961533)
