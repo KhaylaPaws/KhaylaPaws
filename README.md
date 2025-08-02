@@ -29,7 +29,7 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 # Socials! :D
 <!-- Social Links -->
 [![Badge Failed](https://badgen.net/badge/Website/khaylapaws.me/?color=pink)](https://khaylapaws.me)
-[![GitHub](https://img.shields.io/badge/-KhaylaPaws-fbbed3?logo=github&labelColor=555&style=social)](https://github.com/KhaylaPaws)
+[![GitHub](https://img.shields.io/badge/-KhaylaPaws-fbbed3?logo=github&labelColor=555&style=for-the-badge)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/Discord%20Server/RHbhhmF8An/?color=pink)](https://discord.com/invite/RHbhhmF8An)
 [![Badge Failed](https://badgen.net/badge/Discord/KhaylaPaws/?color=pink)](http://discord.com/users/1367264632841961533)
 [![Badge Failed](https://badgen.net/badge/Steam/khaylapaws/?color=pink)](https://steamcommunity.com/id/khaylapaws)
