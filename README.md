@@ -25,13 +25,13 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 
 <p align="left">
   <a href="https://github.com/KhaylaPaws">
-    <img src="./assets/profile.jpeg" width="100" />
+    <img src="./assets/profile.jpeg" width="100" height="20" />
   </a>
   <a href="https://twitter.com/KhaylaPaws">
-    <img src="./assets/profile.jpeg" width="100" />
+    <img src="./assets/profile.jpeg" width="100" height="20" />
   </a>
   <a href="https://khayla.dev">
-    <img src="./assets/profile.jpeg" width="100" />
+    <img src="./assets/profile.jpeg" width="100" height="20" />
   </a>
 </p>
 
