@@ -23,18 +23,10 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 <!-- Image -->
 ![Image Failed to Load](./assets/profile.jpeg)
 
-<p align="left">
-  <a href="https://github.com/KhaylaPaws">
-    <img src="./assets/profile.jpeg" width="100" height="20" />
-  </a>
-  <a href="https://twitter.com/KhaylaPaws">
-    <img src="./assets/profile.jpeg" width="100" height="20" />
-  </a>
-  <a href="https://khayla.dev">
-    <img src="./assets/profile.jpeg" width="100" height="20" />
-  </a>
-</p>
-
+![Image Failed to Load](./assets/test.jpeg)
+![Image Failed to Load](./assets/test.jpeg)
+![Image Failed to Load](./assets/test.jpeg)
+![Image Failed to Load](./assets/test.jpeg)
 
 <!-- Trait List --> <!-- Submissive/Obedient/KnotPocket/CuddleSlut -->
 <!-- Kink List -->
