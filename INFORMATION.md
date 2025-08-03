@@ -6,9 +6,12 @@ This repository is a special one, it displays on my github profile. It has no ot
 Uses Badgen to display custom badges around my profile. its documentation is here: [https://badgen.net](https://badgen.net)
 
 # Attribution
-- All Icons by KhaylaPaws
-- Profile by KhaylaPaws
-- Badge function by Badgen
+- All images created by KhaylaPaws
+- All logos owned by their respective brands
+- Profile owned by KhaylaPaws
+- Badges provided by Badgen
+
+All logos belong to their respective brands, and are used for the sole purpose to show the link leads to their plateform, there is no other affiliation.
 
 # Copyright
 Copyright © KhaylaPaws 2025. All rights reserved.
