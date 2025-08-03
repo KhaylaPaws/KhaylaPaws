@@ -23,8 +23,8 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 <!-- Image -->
 ![Image Failed to Load](./assets/profile.jpeg)
 
-![Image Failed to Load](./assets/7test.jpeg)
-![Image Failed to Load](./assets/7test.jpeg)
+![Image Failed to Load](./assets/8test.jpeg)
+![Image Failed to Load](./assets/8test.jpeg)
 
 <!-- Trait List --> <!-- Submissive/Obedient/KnotPocket/CuddleSlut -->
 <!-- Kink List -->
@@ -35,8 +35,8 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 <a href="https://github.com/KhaylaPaws">
   <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=fbbed3&logo=github&logoColor=black&style=flat" style="transform: scale(1.5); transform-origin: top left;">
 </a>
-[![Badge Failed](https://badgen.net/badge/Discord%20Server/RHbhhmF8An/?color=pink)](https://discord.com/invite/RHbhhmF8An)
-[![Badge Failed](https://badgen.net/badge/Discord/KhaylaPaws/?color=pink)](http://discord.com/users/1367264632841961533)
+[![Badge Failed](https://badgen.net/badge/-/Join_Server/?color=pink)](https://discord.com/invite/RHbhhmF8An)
+[![Badge Failed](https://badgen.net/badge/-/Dm_Me/?color=pink)](http://discord.com/users/1367264632841961533)
 [![Badge Failed](https://badgen.net/badge/Steam/khaylapaws/?color=pink)](https://steamcommunity.com/id/khaylapaws)
 [![Badge Failed](https://badgen.net/badge/Reddit/u%2FKhaylaPaws/?color=pink)](https://www.reddit.com/user/KhaylaPaws)
 
