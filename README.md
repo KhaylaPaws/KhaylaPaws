@@ -12,7 +12,7 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 # About me! :D
 <!-- Info Badges: -->
 [![Badge Failed](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)](https://github.com/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/Owner/Public%20Propety/?color=pink)](https://github.com/KhaylaPaws)
+[![Badge Failed](https://badgen.net/badge/Owner/Trusty/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/163cm/5'4"/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/52kg/114lb/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/Color/%23FBBED3/?color=pink)](https://github.com/KhaylaPaws)
@@ -23,8 +23,6 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 <!-- Image -->
 ![Image Failed to Load](./assets/profile.jpeg)
 
-![Image Failed to Load](./assets/test.jpeg)
-![Image Failed to Load](./assets/test.jpeg)
 ![Image Failed to Load](./assets/test.jpeg)
 ![Image Failed to Load](./assets/test.jpeg)
 
