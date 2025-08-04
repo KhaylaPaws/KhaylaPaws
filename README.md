@@ -27,6 +27,24 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 
 # Socials! :D
 <!-- Social Links -->
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+
+
+
 [![Image Failed to Load](./assets/Socials_website.png?v=1.4)](https://khaylapaws.me)
 [![Image Failed to Load](./assets/Socials_kofi.png?v=1.4)](https://ko-fi.com/khaylapaws)
 [![Image Failed to Load](./assets/Socials_github.png?v=1.4)](https://github.com/KhaylaPaws)
@@ -40,10 +58,7 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 [![Image Failed to Load](./assets/Socials_youtube.png?=v1.4)](https://www.youtube.com/@KhaylaPaws)
 [![Image Failed to Load](./assets/Socials_twitch.png?v=1.4)](https://www.twitch.tv/khaylapaws)
 [![Image Failed to Load](./assets/Socials_reddit.png?v=1.4)](https://www.reddit.com/user/KhaylaPaws)
-[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
 
 <!--
 <a href="https://github.com/KhaylaPaws">
