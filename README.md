@@ -23,16 +23,16 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 <!-- Image -->
 ![Image Failed to Load](./assets/profile.jpeg)
 
-![Image Failed to Load](./assets/11test.jpeg)
-![Image Failed to Load](./assets/11test.jpeg)
-![Image Failed to Load](./assets/11test.jpeg)
-![Image Failed to Load](./assets/11test.jpeg)
-![Image Failed to Load](./assets/11test.jpeg)
-![Image Failed to Load](./assets/11test.jpeg)
-![Image Failed to Load](./assets/11test.jpeg)
-![Image Failed to Load](./assets/11test.jpeg)
-![Image Failed to Load](./assets/11test.jpeg)
-![Image Failed to Load](./assets/11test.jpeg)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
 
 <!-- Trait List --> <!-- Submissive/Obedient/KnotPocket/CuddleSlut -->
 <!-- Kink List -->
@@ -45,11 +45,11 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 [![Image Failed to Load](./assets/Socials_DiscordMe.png)](http://discord.com/users/1367264632841961533)
 [![Image Failed to Load](./assets/Socials_Steam.png)](https://steamcommunity.com/id/khaylapaws)
 [![Image Failed to Load](./assets/icontest.jpeg)](https://www.reddit.com/user/KhaylaPaws)
-[![Image Failed to Load](./assets/icontest.jpeg)]
-[![Image Failed to Load](./assets/icontest.jpeg)]
-[![Image Failed to Load](./assets/icontest.jpeg)]
-[![Image Failed to Load](./assets/icontest.jpeg)]
-[![Image Failed to Load](./assets/icontest.jpeg)]
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
 
 <!--
 <a href="https://github.com/KhaylaPaws">
