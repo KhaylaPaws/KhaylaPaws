@@ -59,8 +59,9 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 [![Image Failed to Load](./assets/Socials_roblox.png?v=5)](https://www.roblox.com/users/8496405137/profile)
 [![Image Failed to Load](./assets/Socials_youtube.png?=v5)](https://www.youtube.com/@KhaylaPaws)
 [![Image Failed to Load](./assets/Socials_twitch.png?v=5)](https://www.twitch.tv/khaylapaws)
-[![Image Failed to Load](./assets/Socials_bluesky.png?v=5)](https://bsky.app/profile/khaylapaws.bsky.social)
+[![Image Failed to Load](./assets/Socials_blusky.png?v=5)](https://bsky.app/profile/khaylapaws.bsky.social)
 [![Image Failed to Load](./assets/Socials_reddit.png?v=5)](https://www.reddit.com/user/KhaylaPaws)
+[![Image Failed to Load](./assets/Socials_twitter.png?v=5)](https://x.com/KhaylaPaws)
 [![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
 
 <!--
