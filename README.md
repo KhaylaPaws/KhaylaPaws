@@ -1,15 +1,4 @@
 # Hii! :D
-<!-- Bios (However many lines fit) -->
-Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
-
-A very kreative, kinky and cuddly pet, Owned by Trusty <3
-
-Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
-<!-- Primary Greeting, 57/60 57/60 -->
-<!-- Primary Bio 58/60 115/120 -->
-<!-- Secondary bios, 57/60 172/180 -->
-
-# About me! :D
 <!-- Info Badges: -->
 [![Badge Failed](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)](https://github.com/KhaylaPaws)
 [![Badge Failed](https://badgen.net/badge/Owner/Trusty/?color=pink)](https://github.com/KhaylaPaws)
@@ -23,16 +12,15 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 <!-- Image -->
 ![Image Failed to Load](./assets/profile.jpeg)
 
-[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
+<!-- Bios (However many lines fit) -->
+Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
+
+A very kreative, kinky and cuddly pet, Owned by Trusty <3
+
+Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
+<!-- Primary Greeting, 57/60 57/60 -->
+<!-- Primary Bio 58/60 115/120 -->
+<!-- Secondary bios, 57/60 172/180 -->
 
 <!-- Trait List --> <!-- Submissive/Obedient/KnotPocket/CuddleSlut -->
 <!-- Kink List -->
