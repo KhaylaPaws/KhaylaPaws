@@ -40,10 +40,10 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 # Socials! :D
 <!-- Social Links -->
 [![Image Failed to Load](./assets/icontest.jpeg)](https://khaylapaws.me)
-[![Image Failed to Load](./assets/Socials_github.png?v=1.1)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socials_discordserver.png?v=1.1)](https://discord.com/invite/RHbhhmF8An)
-[![Image Failed to Load](./assets/Socials_discordme.png?v=1.1)](http://discord.com/users/1367264632841961533)
-[![Image Failed to Load](./assets/Socials_steam.png?v=1.1)](https://steamcommunity.com/id/khaylapaws)
+[![Image Failed to Load](./assets/Socials_github.png?v=1.2)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socials_discordserver.png?v=1.2)](https://discord.com/invite/RHbhhmF8An)
+[![Image Failed to Load](./assets/Socials_discordme.png?v=1.2)](http://discord.com/users/1367264632841961533)
+[![Image Failed to Load](./assets/Socials_steam.png?v=1.2)](https://steamcommunity.com/id/khaylapaws)
 [![Image Failed to Load](./assets/icontest.jpeg)](https://www.reddit.com/user/KhaylaPaws)
 [![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
 [![Image Failed to Load](./assets/icontest.jpeg)](https://github.com/KhaylaPaws)
