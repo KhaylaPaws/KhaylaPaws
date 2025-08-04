@@ -39,14 +39,23 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 
 # Socials! :D
 <!-- Social Links -->
-[![Badge Failed](https://badgen.net/badge/Website/khaylapaws.me/?color=pink)](https://khaylapaws.me)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://khaylapaws.me)
+[![Image Failed to Load](./assets/Socials_Github.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socials_DiscordServer.png)](https://discord.com/invite/RHbhhmF8An)
+[![Image Failed to Load](./assets/Socials_DiscordMe.png)](http://discord.com/users/1367264632841961533)
+[![Image Failed to Load](./assets/Socials_Steam.png)](https://steamcommunity.com/id/khaylapaws)
+[![Image Failed to Load](./assets/icontest.jpeg)](https://www.reddit.com/user/KhaylaPaws)
+[![Image Failed to Load](./assets/icontest.jpeg)]
+[![Image Failed to Load](./assets/icontest.jpeg)]
+[![Image Failed to Load](./assets/icontest.jpeg)]
+[![Image Failed to Load](./assets/icontest.jpeg)]
+[![Image Failed to Load](./assets/icontest.jpeg)]
+
+<!--
 <a href="https://github.com/KhaylaPaws">
   <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=fbbed3&logo=github&logoColor=black&style=flat" style="transform: scale(1.5); transform-origin: top left;">
 </a>
-[![Badge Failed](https://badgen.net/badge/-/Join_Server/?color=pink)](https://discord.com/invite/RHbhhmF8An)
-[![Badge Failed](https://badgen.net/badge/-/Dm_Me/?color=pink)](http://discord.com/users/1367264632841961533)
-[![Badge Failed](https://badgen.net/badge/Steam/khaylapaws/?color=pink)](https://steamcommunity.com/id/khaylapaws)
-[![Badge Failed](https://badgen.net/badge/Reddit/u%2FKhaylaPaws/?color=pink)](https://www.reddit.com/user/KhaylaPaws)
+-->
 
 # Info! :D
 This bio is actually a readme of my special respository: [README.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/README.md)
