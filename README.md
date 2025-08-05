@@ -28,7 +28,7 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 # Socials! :D
 ### Test
 <!-- Social Links -->
-[![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
+[![Image Failed to Load](./assets/Socialtest2.png)](404p02lf.com)
 [![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
 [![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
 [![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
