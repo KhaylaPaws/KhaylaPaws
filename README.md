@@ -26,43 +26,49 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 <!-- Kink List -->
 
 # Socials! :D
+### Test
 <!-- Social Links -->
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest2.png)](https://github.com/KhaylaPaws)
+[![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
+[![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
+[![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
+[![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
+[![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
+[![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
+[![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
+[![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
+[![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
+[![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
+[![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
+[![Image Failed to Load](./assets/Socialtest2.png)](Error: 404p02lf)
 
+### Main Socials :>
+[![Error 404p01if](./assets/Socials_website.png?v=5)](https://khaylapaws.me)
+[![Error 404p01if](./assets/Socials_donate.png?v=5)](https://ko-fi.com/khaylapaws)
+[![Error 404p01if](./assets/Socials_github.png?v=5)](https://github.com/KhaylaPaws)
+[![Error 404p01if](./assets/Socials_discordserver.png?v=5)](https://discord.com/invite/RHbhhmF8An)
+[![Error 404p01if](./assets/Socials_discordme.png?v=5)](http://discord.com/users/1367264632841961533)
+[![Error 404p01if](./assets/Socials_steam.png?v=5)](https://steamcommunity.com/id/khaylapaws)
 
+### Post Socials :>
+[![Error 404p01if](./assets/Socials_youtube.png?=v5)](https://www.youtube.com/@KhaylaPaws)
+[![Error 404p01if](./assets/Socials_twitch.png?v=5)](https://www.twitch.tv/khaylapaws)
+[![Error 404p01if](./assets/Socials_blusky.png?v=5)](https://bsky.app/profile/khaylapaws.bsky.social)
+[![Error 404p01if](./assets/Socials_reddit.png?v=5)](https://www.reddit.com/user/KhaylaPaws)
+[![Error 404p01if](./assets/Socials_twitter.png?v=5)](https://x.com/KhaylaPaws)
+[![Error 404p01if](./assets/Socials_tiktok.png)](Error: 404p02lf)
 
-[![Image Failed to Load](./assets/Socials_website.png?v=5)](https://khaylapaws.me)
-[![Image Failed to Load](./assets/Socials_donate.png?v=5)](https://ko-fi.com/khaylapaws)
-[![Image Failed to Load](./assets/Socials_github.png?v=5)](https://github.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socials_discordserver.png?v=5)](https://discord.com/invite/RHbhhmF8An)
-[![Image Failed to Load](./assets/Socials_discordme.png?v=5)](http://discord.com/users/1367264632841961533)
-[![Image Failed to Load](./assets/Socials_steam.png?v=5)](https://steamcommunity.com/id/khaylapaws)
-[![Image Failed to Load](./assets/Socials_xbox.png?v=5)](https://www.xbox.com/play/user/KhaylaPaws)
-[![Image Failed to Load](./assets/Socials_unreal.png?v=5)](https://epicgames.com/u/b84cb591504d43bfbc8d909ab30fa0e9)
-[![Image Failed to Load](./assets/Socials_blizzard.png?v=5)](https://www.overbuff.com/players/KhaylaPaws-1652)
-[![Image Failed to Load](./assets/Socials_roblox.png?v=5)](https://www.roblox.com/users/8496405137/profile)
-[![Image Failed to Load](./assets/Socials_youtube.png?=v5)](https://www.youtube.com/@KhaylaPaws)
-[![Image Failed to Load](./assets/Socials_twitch.png?v=5)](https://www.twitch.tv/khaylapaws)
-[![Image Failed to Load](./assets/Socials_blusky.png?v=5)](https://bsky.app/profile/khaylapaws.bsky.social)
-[![Image Failed to Load](./assets/Socials_reddit.png?v=5)](https://www.reddit.com/user/KhaylaPaws)
-[![Image Failed to Load](./assets/Socials_twitter.png?v=5)](https://x.com/KhaylaPaws)
-[![Image Failed to Load](./assets/Socialtest.png)](https://github.com/KhaylaPaws)
+### Other Socials :>
+[![Error 404p01if](./assets/Socials_xbox.png?v=5)](https://www.xbox.com/play/user/KhaylaPaws)
+[![Error 404p01if](./assets/Socials_unreal.png?v=5)](https://epicgames.com/u/b84cb591504d43bfbc8d909ab30fa0e9)
+[![Error 404p01if](./assets/Socials_playstation.png)](Error: 404p02lf)
+[![Error 404p01if](./assets/Socials_bungie.png)](Error: 404p02lf)
+[![Error 404p01if](./assets/Socials_blizzard.png?v=5)](https://www.overbuff.com/players/KhaylaPaws-1652)
+[![Error 404p01if](./assets/Socials_roblox.png?v=5)](https://www.roblox.com/users/8496405137/profile)
+[![Error 404p01if](./assets/Socials_ebay.png)](Error: 404p02lf)
+[![Error 404p01if](./assets/Socials_paypal.png)](Error: 404p02lf)
+[![Error 404p01if](./assets/Socials_anime.png)](Error: 404p02lf)
+[![Error 404p01if](./assets/Socials_spotify.png)](Error: 404p02lf)
+[![Error 404p01if](./assets/Socials_amazonmusic.png)](Error: 404p02lf)
 
 <!--
 <a href="https://github.com/KhaylaPaws">
@@ -79,7 +85,7 @@ Focumentaion, attribution, and other info: [INFORMATION.md](https://github.com/K
 
 Copyright © KhaylaPaws 2025. All rights reserved.
 
-License file: [LICENSE.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/LICENSE.md)
+License file: [https://github.com/KhaylaPaws/KhaylaPaws/blob/main/LICENSE](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/LICENSE)
 
-No part of this repository may be copied, modified, distributed, or used in any form without explicit written permission from KhaylaPaws.
+No part of this repository may be copied, modified, distributed, or used in any form without explicit written permission from Khayla.
 
