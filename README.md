@@ -12,6 +12,10 @@
 <!-- Image -->
 ![Image Failed to Load](./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif)
 
+| <img src="./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif" width="100"> | Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------------|
+
+
 <!-- Bios (However many lines fit) -->
 Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
 
