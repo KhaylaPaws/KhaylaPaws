@@ -12,11 +12,7 @@
 <!-- Image -->
 ![Image Failed to Load](./gallery/MMOS%20-%20SmallLeft%20-%20LLQ.gif)
 
-<div style="position: relative; display: inline-block;">
-  <img src="./gallery/CherrySmall%20-%20Right%20-%20LQ.gif" style="width: 400px;">
-  <img src="./gallery/MMOS%20-%20SmallLeft%20-%20LLQ.gif"" style="position: absolute; top: 20px; left: 20px; width: 100px;">
-</div>
-
+<img src="./gallery/MMOS%20-%20SmallLeft%20-%20LLQ.gif" style="border: 2px solid pink; border-radius: 8px;"/>
 
 <!-- Bios (However many lines fit) -->
 Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
