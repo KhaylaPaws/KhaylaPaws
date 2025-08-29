@@ -19,6 +19,9 @@
 |-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <img src="./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif" align="left" width="300" marign_right="40">
+
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -36,11 +39,14 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 
 <!-- Trait List --> <!-- Submissive/Obedient/KnotPocket/CuddleSlut -->
 <!-- Kink List -->
+
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+
 # Socials! :D
 ### Main Socials :>
 [![Error 404p01if](./gallery/Socials_website.png?v=5)](https://khaylapaws.me)
