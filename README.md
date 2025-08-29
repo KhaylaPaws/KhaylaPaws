@@ -10,7 +10,7 @@
 <!-- Badges: She/Her/Hers | Public Property | 163cm/5'4" 52kg/114lb | Pink/White | Oct 10 2004 | Bleh -->
 
 <!-- Image -->
-![Image Failed to Load](./assets/profile.jpeg)
+![Image Failed to Load](./gallery/MMOS%20-%20SmallLeft%20-%20LLQ.gif)
 
 <!-- Bios (However many lines fit) -->
 Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
