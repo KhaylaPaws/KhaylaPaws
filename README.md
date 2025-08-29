@@ -12,6 +12,12 @@
 <!-- Image -->
 ![Image Failed to Load](./gallery/MMOS%20-%20SmallLeft%20-%20LLQ.gif)
 
+<div style="position: relative; display: inline-block;">
+  <img src="./gallery/CherrySmall%20-%20Right%20-%20LQ.gif" style="width: 400px;">
+  <img src="./gallery/MMOS%20-%20SmallLeft%20-%20LLQ.gif"" style="position: absolute; top: 20px; left: 20px; width: 100px;">
+</div>
+
+
 <!-- Bios (However many lines fit) -->
 Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
 
@@ -27,48 +33,48 @@ Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 
 # Socials! :D
 ### Main Socials :>
-[![Error 404p01if](./assets/Socials_website.png?v=5)](https://khaylapaws.me)
-[![Error 404p01if](./assets/Socials_donate.png?v=5)](https://ko-fi.com/khaylapaws)
-[![Error 404p01if](./assets/Socials_github.png?v=5)](https://github.com/KhaylaPaws)
-[![Error 404p01if](./assets/Socials_discordserver.png?v=5)](https://discord.com/invite/RHbhhmF8An)
-[![Error 404p01if](./assets/Socials_discordme.png?v=5)](http://discord.com/users/1367264632841961533)
-[![Error 404p01if](./assets/Socials_steam.png?v=5)](https://steamcommunity.com/id/khaylapaws)
+[![Error 404p01if](./gallery/Socials_website.png?v=5)](https://khaylapaws.me)
+[![Error 404p01if](./gallery/Socials_donate.png?v=5)](https://ko-fi.com/khaylapaws)
+[![Error 404p01if](./gallery/Socials_github.png?v=5)](https://github.com/KhaylaPaws)
+[![Error 404p01if](./gallery/Socials_discordserver.png?v=5)](https://discord.com/invite/RHbhhmF8An)
+[![Error 404p01if](./gallery/Socials_discordme.png?v=5)](http://discord.com/users/1367264632841961533)
+[![Error 404p01if](./gallery/Socials_steam.png?v=5)](https://steamcommunity.com/id/khaylapaws)
 
 ### Post Socials :>
-[![Error 404p01if](./assets/Socials_youtube.png?=v5)](https://www.youtube.com/@KhaylaPaws)
-[![Error 404p01if](./assets/Socials_twitch.png?v=5)](https://www.twitch.tv/khaylapaws)
-[![Error 404p01if](./assets/Socials_blusky.png?v=5)](https://bsky.app/profile/khaylapaws.me)
-[![Error 404p01if](./assets/Socials_reddit.png?v=5)](https://www.reddit.com/user/KhaylaPaws)
-[![Error 404p01if](./assets/Socials_twitter.png?v=5)](https://x.com/KhaylaPaws)
-[![Error 404p01if](./assets/Socials_tiktok.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_facebook.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_instagram.png?v=5)](https://www.instagram.com/khaylapaws)
-[![Error 404p01if](./assets/Socials_horizon.png?v=5)](https://horizon.meta.com/profile/KhaylaPaws)
-[![Error 404p01if](./assets/Socials_whatsapp.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_messenger.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_tumblr.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_beacons.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_youtube.png?=v5)](https://www.youtube.com/@KhaylaPaws)
+[![Error 404p01if](./gallery/Socials_twitch.png?v=5)](https://www.twitch.tv/khaylapaws)
+[![Error 404p01if](./gallery/Socials_blusky.png?v=5)](https://bsky.app/profile/khaylapaws.me)
+[![Error 404p01if](./gallery/Socials_reddit.png?v=5)](https://www.reddit.com/user/KhaylaPaws)
+[![Error 404p01if](./gallery/Socials_twitter.png?v=5)](https://x.com/KhaylaPaws)
+[![Error 404p01if](./gallery/Socials_tiktok.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_facebook.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_instagram.png?v=5)](https://www.instagram.com/khaylapaws)
+[![Error 404p01if](./gallery/Socials_horizon.png?v=5)](https://horizon.meta.com/profile/KhaylaPaws)
+[![Error 404p01if](./gallery/Socials_whatsapp.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_messenger.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_tumblr.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_beacons.png)](./404p02lf)
 
 ### Other Socials :>
-[![Error 404p01if](./assets/Socials_linktree.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_patreon.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_onlyfans.png?v=5)](https://onlyfans.com/khaylapaws)
-[![Error 404p01if](./assets/Socials_shopify.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_xbox.png?v=5?v=5)](https://www.xbox.com/play/user/KhaylaPaws)
-[![Error 404p01if](./assets/Socials_unreal.png?v=5?v=5)](https://epicgames.com/u/b84cb591504d43bfbc8d909ab30fa0e9)
-[![Error 404p01if](./assets/Socials_playstation.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_bungie.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_blizzard.png?v=5?v=5)](https://www.overbuff.com/players/KhaylaPaws-1652)
-[![Error 404p01if](./assets/Socials_roblox.png?v=5?v=5)](https://www.roblox.com/users/8496405137/profile)
-[![Error 404p01if](./assets/Socials_league.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_riot.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_ebay.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_paypal.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_anime.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_spotify.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_soundcloud.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_autodesk.png)](./404p02lf)
-[![Error 404p01if](./assets/Socials_lego.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_linktree.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_patreon.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_onlyfans.png?v=5)](https://onlyfans.com/khaylapaws)
+[![Error 404p01if](./gallery/Socials_shopify.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_xbox.png?v=5?v=5)](https://www.xbox.com/play/user/KhaylaPaws)
+[![Error 404p01if](./gallery/Socials_unreal.png?v=5?v=5)](https://epicgames.com/u/b84cb591504d43bfbc8d909ab30fa0e9)
+[![Error 404p01if](./gallery/Socials_playstation.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_bungie.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_blizzard.png?v=5?v=5)](https://www.overbuff.com/players/KhaylaPaws-1652)
+[![Error 404p01if](./gallery/Socials_roblox.png?v=5?v=5)](https://www.roblox.com/users/8496405137/profile)
+[![Error 404p01if](./gallery/Socials_league.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_riot.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_ebay.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_paypal.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_anime.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_spotify.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_soundcloud.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_autodesk.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_lego.png)](./404p02lf)
 
 <!--
 <a href="https://github.com/KhaylaPaws">
