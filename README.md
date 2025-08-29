@@ -12,7 +12,10 @@
 <!-- Image -->
 ![Image Failed to Load](./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif)
 
-| <img src="./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif" width="300px"> | Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs<br><br>A very kreative, kinky and cuddly pet, Owned by Trusty <3<br><br>Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR |
+| <img src="./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif" width="340px"> | Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs<br><br>A very kreative, kinky and cuddly pet, Owned by Trusty <3<br><br>Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR |
+|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| <img src="./gallery/MMOS%20-%20SmallLeft%20-%20LLQ.gif" width="340px"> | Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs<br><br>A very kreative, kinky and cuddly pet, Owned by Trusty <3<br><br>Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR |
 |-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
