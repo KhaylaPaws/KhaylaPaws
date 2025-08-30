@@ -23,7 +23,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <!-- Bios (However many lines fit) -->
 ### ⠀⠀⠀Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
@@ -38,7 +37,6 @@
 <!-- Trait List --> <!-- Submissive/Obedient/KnotPocket/CuddleSlut -->
 <!-- Kink List -->
 
-<br>
 <br>
 <br>
 <br>
