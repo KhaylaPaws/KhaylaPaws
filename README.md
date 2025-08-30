@@ -44,8 +44,6 @@
 [![Error 404p01if](./gallery/Socials_discordserver.png?v=5)](https://discord.com/invite/RHbhhmF8An)
 [![Error 404p01if](./gallery/Socials_discordme.png?v=5)](http://discord.com/users/1367264632841961533)
 [![Error 404p01if](./gallery/Socials_steam.png?v=5)](https://steamcommunity.com/id/khaylapaws)
-
-### Post Socials :>
 [![Error 404p01if](./gallery/Socials_youtube.png?=v5)](https://www.youtube.com/@KhaylaPaws)
 [![Error 404p01if](./gallery/Socials_twitch.png?v=5)](https://www.twitch.tv/khaylapaws)
 [![Error 404p01if](./gallery/Socials_blusky.png?v=5)](https://bsky.app/profile/khaylapaws.me)
