@@ -50,18 +50,14 @@
 [![Error 404p01if](./gallery/Socials_twitch.png?v=5)](https://www.twitch.tv/khaylapaws)
 [![Error 404p01if](./gallery/Socials_blusky.png?v=5)](https://bsky.app/profile/khaylapaws.me)
 [![Error 404p01if](./gallery/Socials_reddit.png?v=5)](https://www.reddit.com/user/KhaylaPaws)
-[![Error 404p01if](./gallery/Socials_twitter.png?v=5)](https://x.com/KhaylaPaws)
-[![Error 404p01if](./gallery/Socials_tiktok.png)](./404p02lf)
-[![Error 404p01if](./gallery/Socials_facebook.png)](./404p02lf)
-[![Error 404p01if](./gallery/Socials_instagram.png?v=5)](https://www.instagram.com/khaylapaws)
-[![Error 404p01if](./gallery/Socials_horizon.png?v=5)](https://horizon.meta.com/profile/KhaylaPaws)
-[![Error 404p01if](./gallery/Socials_whatsapp.png)](./404p02lf)
-[![Error 404p01if](./gallery/Socials_messenger.png)](./404p02lf)
-[![Error 404p01if](./gallery/Socials_tumblr.png)](./404p02lf)
-[![Error 404p01if](./gallery/Socials_beacons.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_e621.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_onlyfans.png?v=5)](https://onlyfans.com/khaylapaws)
 
 ### Other Socials :>
+[![Error 404p01if](./gallery/Socials_tumblr.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_beacons.png)](./404p02lf)
 [![Error 404p01if](./gallery/Socials_linktree.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_horizon.png?v=5)](https://horizon.meta.com/profile/KhaylaPaws)
 [![Error 404p01if](./gallery/Socials_patreon.png)](./404p02lf)
 [![Error 404p01if](./gallery/Socials_onlyfans.png?v=5)](https://onlyfans.com/khaylapaws)
 [![Error 404p01if](./gallery/Socials_shopify.png)](./404p02lf)
@@ -74,7 +70,6 @@
 [![Error 404p01if](./gallery/Socials_league.png)](./404p02lf)
 [![Error 404p01if](./gallery/Socials_riot.png)](./404p02lf)
 [![Error 404p01if](./gallery/Socials_ebay.png)](./404p02lf)
-[![Error 404p01if](./gallery/Socials_paypal.png)](./404p02lf)
 [![Error 404p01if](./gallery/Socials_anime.png)](./404p02lf)
 [![Error 404p01if](./gallery/Socials_spotify.png)](./404p02lf)
 [![Error 404p01if](./gallery/Socials_soundcloud.png)](./404p02lf)
@@ -86,6 +81,11 @@
   <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=fbbed3&logo=github&logoColor=black&style=flat" style="transform: scale(1.5); transform-origin: top left;">
 </a>
 -->
+
+# About! :D
+idk what to put here
+
+you will never see me on twitter, facebook, tiktok, whatsapp, messenger, instagram, or paypal. I refuse to use these plateform/services for one reason or another.
 
 # Info! :D
 This bio is actually a readme of my special respository: [README.md](https://github.com/KhaylaPaws/KhaylaPaws/blob/main/README.md)
