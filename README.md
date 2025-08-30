@@ -10,16 +10,6 @@
 <!-- Badges: She/Her/Hers | Public Property | 163cm/5'4" 52kg/114lb | Pink/White | Oct 10 2004 | Bleh -->
 
 <!-- Image -->
-![Image Failed to Load](./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif)
-
-![Image Failed to Load](./gallery/MMOS%20-%20SmallLeft%20-%20LLQ.gif)
-
-| <img src="./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif" width="270"> | ⠀⠀⠀⠀⠀Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs⠀⠀⠀⠀⠀<br><br>⠀⠀⠀⠀⠀A very kreative, kinky and cuddly pet, Owned by Trusty <3⠀⠀⠀⠀⠀<br><br>⠀⠀⠀⠀⠀Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR⠀⠀⠀⠀⠀ |
-|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-| <img src="./gallery/MMOS%20-%20SmallLeft%20-%20LLQ.gif" width="270"> | ⠀⠀⠀⠀⠀Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs⠀⠀⠀⠀⠀<br><br>⠀⠀⠀⠀⠀A very kreative, kinky and cuddly pet, Owned by Trusty <3⠀⠀⠀⠀⠀<br><br>⠀⠀⠀⠀⠀Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR⠀⠀⠀⠀⠀ |
-|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 <img src="./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif" align="left" width="270">
 
 <br>
