@@ -12,7 +12,7 @@
 <br>
 
 <!-- Image -->
-<img src="./gallery/MMOS-Stitched-PFP-Right.gif" align="left" width="270">
+<img src="./gallery/MMOS-Stitched-CropPFP-Right.gif" align="left" width="270">
 
 <br>
 <br>
