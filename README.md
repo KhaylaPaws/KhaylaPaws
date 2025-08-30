@@ -9,9 +9,12 @@
 <!-- Layout: (Pronouns) | (owner) | (height and weight) | (favorite color) | (Birthday) | (status) -->
 <!-- Badges: She/Her/Hers | Public Property | 163cm/5'4" 52kg/114lb | Pink/White | Oct 10 2004 | Bleh -->
 
-<!-- Image -->
-<img src="./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif" align="left" width="270">
+<br>
 
+<!-- Image -->
+<img src="./gallery/MMOS-Stitched-PFP-Right.gif" align="left" width="270">
+
+<br>
 <br>
 <br>
 <br>
