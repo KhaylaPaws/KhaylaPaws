@@ -28,11 +28,11 @@
 <br>
 
 <!-- Bios (However many lines fit) -->
-### ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
+### ⠀⠀⠀⠀⠀⠀Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
 
-## ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀A very kreative, kinky and cuddly pet, Owned by Trusty <3
+### ⠀⠀⠀⠀⠀⠀A very kreative, kinky and cuddly pet, Owned by Trusty <3
 
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR**
+### ⠀⠀⠀⠀⠀⠀Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR**
 <!-- Primary Greeting, 57/60 57/60 -->
 <!-- Primary Bio 58/60 115/120 -->
 <!-- Secondary bios, 57/60 172/180 -->
