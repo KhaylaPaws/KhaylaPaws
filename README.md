@@ -12,13 +12,13 @@
 <!-- Image -->
 ![Image Failed to Load](./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif)
 
-| <img src="./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif" width="340"> | Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs<br><br>A very kreative, kinky and cuddly pet, Owned by Trusty <3<br><br>Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR |
+| <img src="./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif" width="300"> | Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs<br><br>A very kreative, kinky and cuddly pet, Owned by Trusty <3<br><br>Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR |
 |-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-| <img src="./gallery/MMOS%20-%20SmallLeft%20-%20LLQ.gif" width="340"> | Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs<br><br>A very kreative, kinky and cuddly pet, Owned by Trusty <3<br><br>Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR |
+| <img src="./gallery/MMOS%20-%20SmallLeft%20-%20LLQ.gif" width="300"> | Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs<br><br>A very kreative, kinky and cuddly pet, Owned by Trusty <3<br><br>Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR |
 |-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-<img src="./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif" align="left" width="340">
+<img src="./gallery/MMOS%20-%20SmallLeft%20-%20Circle%20-%20LLQ.gif" align="left" width="300">
 
 <br>
 <br>
@@ -28,11 +28,11 @@
 <br>
 
 <!-- Bios (However many lines fit) -->
-### ⠀⠀⠀⠀⠀⠀Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
+### ⠀⠀⠀Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
 
-### ⠀⠀⠀⠀⠀⠀A very kreative, kinky and cuddly pet, Owned by Trusty <3
+### ⠀⠀⠀A very kreative, kinky and cuddly pet, Owned by Trusty <3
 
-### ⠀⠀⠀⠀⠀⠀Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR**
+### ⠀⠀⠀Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR**
 <!-- Primary Greeting, 57/60 57/60 -->
 <!-- Primary Bio 58/60 115/120 -->
 <!-- Secondary bios, 57/60 172/180 -->
