@@ -48,7 +48,7 @@
 [![Error 404p01if](./gallery/Socials_twitch.png?v=5)](https://www.twitch.tv/khaylapaws)
 [![Error 404p01if](./gallery/Socials_blusky.png?v=5)](https://bsky.app/profile/khaylapaws.me)
 [![Error 404p01if](./gallery/Socials_reddit.png?v=5)](https://www.reddit.com/user/KhaylaPaws)
-[![Error 404p01if](./gallery/Socials_patreon.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_gravatar.png)](./404p02lf)
 [![Error 404p01if](./gallery/Socials_linktree.png)](./404p02lf)
 
 ### Kinky Socials OwO
@@ -63,6 +63,8 @@
 [![Error 404p01if](./gallery/Socials_tumblr.png)](./404p02lf)
 [![Error 404p01if](./gallery/Socials_beacons.png)](./404p02lf)
 [![Error 404p01if](./gallery/Socials_linktree.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_linktree.png)](./404p02lf)
+[![Error 404p01if](./gallery/Socials_patreon.png)](./404p02lf)
 [![Error 404p01if](./gallery/Socials_horizon.png?v=5)](https://horizon.meta.com/profile/KhaylaPaws)
 [![Error 404p01if](./gallery/Socials_shopify.png)](./404p02lf)
 [![Error 404p01if](./gallery/Socials_xbox.png?v=5?v=5)](https://www.xbox.com/play/user/KhaylaPaws)
