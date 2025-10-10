@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Vital -->
+	<meta charset="UTF-8"> <!-- maybe ASCII -->
+    <link rel="canonical" href="https://khaylapaws.me">
+    <meta name="author" content="KhaylaPaws">
+
+    <!-- Compatibility -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Style -->
+    <title>KhaylaPaws Kreations</title>
+    <meta name="description" content="Hii! :D I'm Khayla! A Dumb Subby FoxGirl. And this is my webthingy!">
+	<meta name="keywords" content="KhaylaPaws, Kreations, NSFW, furry art, foxgirl, commissions, VR, CAD, 3D print, coding">
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+    <meta name="theme-color" content="#FBBED3">
+
+    <!-- Open Graph Vital -->
+    <meta property="og:title" content="KhaylaPaws Kreations">
+    <meta property="og:description" content="Hii! :D I'm Khayla! A Dumb Subby FoxGirl. And this is my webthingy!">
+    <meta property="og:url" content="https://khaylapaws.me">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_CA">
+
+    <!-- Open Graph Banner -->
+    <meta property="og:image" content="https://khaylapaws.me/assets/banner.png">
+	<meta property="og:image:alt" content="Image Fetch Fail">
+	<meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <!-- Twitter -->
+    <meta name="twitter:title" content="KhaylaPaws Kreations">
+    <meta name="twitter:description" content=":D Hia! I'm Khayla! <3 I'm a winter fox, I love my softpink #FBBED3. Extra kreative, A little niave and a bit dumb, but very silly :3">
+    <meta name="twitter:creator" content="@KhaylaPaws">
+    <meta name="twitter:site" content="@KhaylaPaws">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://khaylapaws.me/assets/media.png">
+
+    <!-- JS -->
+    <script type="application/ld+json">{
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "KhaylaPaws Kreations",
+        "url": "https://khaylapaws.me",
+        "description": ":D Hia! I'm Khayla! <3 I'm a winter fox, I love my softpink #FBBED3. Extra kreative, A little niave and a bit dumb, but very silly :3",
+        "sameAs": [
+            "https://twitter.com/KhaylaPaws",
+            "https://youtube.com/KhaylaPaws"]}
+    </script>
+</head>
+
+<body>
+<!--
+landing page, first impression important, age gate goes here
+
+noscript the y/n age gate versionas fallback
+-->
+
+<!-- Universal No-Access Screen -->
+<div id="no-access-screen">
+
+  <!-- Age Gate Container -->
+  <div id="age-gate">
+    <!-- Non-JS fallback toggle (visible by default) -->
+    <div id="fallback-toggle" class="noscript">
+      <h2>Are you 18 or older?</h2>
+      <div role="button"><a href="home.html#noscript">Yes, continue</a></div>
+    </div>
+
+    <!-- JS-enhanced gate (hidden by default, shown with JS) -->
+    <div id="js-toggle" class="onscript">
+      <h2>Are you 18 or older?</h2>
+      <button onclick="localStorage.setItem('access','true'); location.href='home.html';">
+        Yes, continue
+      </button>
+      <option checkmark>Remember this decision?</option>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+<script>
+const accessState = localStorage.getItem("access");
+
+// DOM references
+const noAccessScreen = document.getElementById("no-access-screen");
+const ageGate = document.getElementById("age-gate");
+
+// Flip visibility classes immediately if JS is running
+document.querySelectorAll('.onscript').forEach(el => el.style.display = 'block');
+document.querySelectorAll('.noscript').forEach(el => el.style.display = 'none');
+
+// Access granted
+if (accessState === "true") {
+  noAccessScreen.style.display = "none";
+}
+
+// Access not granted
+else {
+  noAccessScreen.style.display = "block";
+  ageGate.style.display = "block";
+}
+
+</script>
+</body>
+</html>
+
+
+
+<!-- OLD
+
+<main>
+<header>
+    <h1>Welcome to KhaylaPaws Kreations</h1>
+    <p>This is a mature site, This space is adult-only.. Minors DNI</p>
+</header>
+
+<section id="agegate">
+<form action="#">
+    <label for="dob">Date of Birth:</label>
+    <input type="date" id="dob" name="dob" required>
+    <button type="submit">Continue</button>
+</form>
+    <button id="skip-dob">Skip entering DOB?</button>
+</section>
+
+<section id="noscript-agegate">
+    <p><strong>DISCLAIMER</strong></p>
+    <p>JavaScript is disabled. This site may contain NSFW content. You confirm you are of age.</p>
+    <p>Are you of age?</p>
+    <button id="confirm-yes">Yes, I am of age, let me in</button>
+    <button id="confirm-no">No, I am a minor, get me out of here</button>
+    <br><br>
+    <button id="back-to-dob">Go back to DOB input</button>
+</section>
+
+
+
+</main>
+
+</body>
+
+</html>
+-->

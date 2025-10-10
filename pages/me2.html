@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Character Profile</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #1e1e2f;
+      color: #e6e6f0;
+      margin: 0;
+      padding: 20px;
+    }
+
+    .profile-container {
+      max-width: 800px;
+      margin: auto;
+      background: #2e2e3e;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 0 10px #0005;
+    }
+
+    .header {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      border-bottom: 2px solid #444;
+      padding-bottom: 15px;
+    }
+
+    .avatar {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #888;
+    }
+
+    .char-name {
+      font-size: 2rem;
+      font-weight: bold;
+    }
+
+    .section {
+      margin-top: 20px;
+    }
+
+    .section h2 {
+      font-size: 1.4rem;
+      color: #93cdf5;
+      margin-bottom: 10px;
+      border-bottom: 1px solid #555;
+      padding-bottom: 5px;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+    .info-item {
+      background: #3b3b4e;
+      padding: 10px;
+      border-radius: 6px;
+    }
+
+    .kink-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .kink {
+      padding: 5px 10px;
+      border-radius: 20px;
+      font-size: 0.9rem;
+      background-color: #444;
+    }
+
+    .yes { background-color: #339966; }
+    .maybe { background-color: #cc9933; }
+    .no { background-color: #cc3333; }
+
+    .footer {
+      margin-top: 40px;
+      font-size: 0.8rem;
+      color: #888;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="profile-container">
+    <div class="header">
+      <img src="https://via.placeholder.com/100" alt="Avatar" class="avatar" />
+      <div class="char-name">Character Name</div>
+    </div>
+
+    <div class="section">
+      <h2>About</h2>
+      <p>This is a short biography about the character. You can include personality, backstory, or general vibe. Keep it clean and descriptive!</p>
+    </div>
+
+    <div class="section">
+      <h2>Basic Info</h2>
+      <div class="info-grid">
+        <div class="info-item"><strong>Species:</strong> Human</div>
+        <div class="info-item"><strong>Gender:</strong> Female</div>
+        <div class="info-item"><strong>Height:</strong> 5'7"</div>
+        <div class="info-item"><strong>Occupation:</strong> Librarian</div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Likes</h2>
+      <div class="kink-list">
+        <div class="kink yes">Reading</div>
+        <div class="kink yes">Exploring</div>
+        <div class="kink maybe">Dancing</div>
+        <div class="kink no">Conflict</div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>RP Style</h2>
+      <p>I write in third-person paragraph format, usually semi-literate to literate. Open to slice-of-life, fantasy, mystery, and more.</p>
+    </div>
+
+    <div class="footer">
+      Profile design inspired by F-List. Safe-for-work version.
+    </div>
+  </div>
+</body>
+</html>
