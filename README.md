@@ -13,9 +13,8 @@
 <br>
 
 <!-- Image -->
-<img src="./branding/MMOS-Stitched-CropPFP-Right.gif" align="left" width="250">
+<img src="./branding/MMOS-Stitched-CropPFP-Right.gif" align="left" width="240">
 
-<br>
 <br>
 <br>
 
