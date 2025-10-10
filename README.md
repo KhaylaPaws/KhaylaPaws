@@ -16,7 +16,6 @@
 <img src="./branding/MMOS-Stitched-CropPFP-Right.gif" align="left" width="240">
 
 <br>
-<br>
 
 <!-- Bios (However many lines fit) -->
 ### ⠀⠀⠀Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
