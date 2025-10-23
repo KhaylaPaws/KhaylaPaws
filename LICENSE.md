@@ -1,4 +1,3 @@
-Copyright Terms
 Copyright © KhaylaPaws 2025. All rights reserved.
 License Version: 2.0
 Last Updated: 2025-10-23
