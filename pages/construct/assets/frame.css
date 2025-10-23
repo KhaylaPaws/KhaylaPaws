@@ -1,0 +1,109 @@
+/* Webthingy Frame */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#error-css {
+display: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 1rem 2rem;
+    background-color: #f2f2f2;
+    border-bottom: 2px solid #ccc;
+}
+
+main {
+    margin: 0;
+    padding: 0;
+    display: flex !important;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: sans-serif;
+}
+
+#main {
+flex: 1;
+padding: 2rem;
+background-color: #fff;
+border-left: 1px solid #eee;
+border-right: 1px solid #eee;
+}
+
+
+footer {
+    padding: 1rem 2rem;
+    background-color: #f2f2f2;
+    border-top: 2px solid #ccc;
+    text-align: center;
+}
+
+.noscript {
+    display: block;
+}
+
+.onscript {
+    display: none;
+}
+
+
+
+#gate {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: white;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+#alert-ant {
+background: grey;
+text-align: center;
+display: none;
+}
+
+#alert-size {
+background: orange;
+text-align: center;
+display: none;
+}
+
+#status-css {
+background: yellow;
+text-align: center;
+}
+
+#status-js {
+background: yellow;
+text-align: center;
+}
+
+@media (max-width: 500px), (max-height: 250px) {
+    #alert-size {
+    display: block;
+    }
+}
+
+@media (max-width: 55px), (max-height: 55px) {
+    #alert-ant {
+    display: block;
+    font-size: 8px;
+    }
+}

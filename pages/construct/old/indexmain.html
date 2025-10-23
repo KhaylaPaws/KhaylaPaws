@@ -5,6 +5,8 @@
 	<meta charset="UTF-8"> <!-- maybe ASCII -->
     <link rel="canonical" href="https://khaylapaws.me">
     <meta name="author" content="KhaylaPaws">
+    <link rel="stylesheet" href="assets/frame.css">
+    <link rel="stylesheet" href="assets/themes.css">
 
     <!-- Compatibility -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,8 +16,8 @@
     <title>KhaylaPaws Kreations</title>
     <meta name="description" content="Hii! :D I'm Khayla! A Dumb Subby FoxGirl. And this is my webthingy!">
 	<meta name="keywords" content="KhaylaPaws, Kreations, NSFW, furry art, foxgirl, commissions, VR, CAD, 3D print, coding">
-    <link rel="icon" type="image/png" href="assets/favicon.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="assets/media/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/media/apple-touch-icon.png">
     <meta name="theme-color" content="#FBBED3">
 
     <!-- Open Graph Vital -->
@@ -26,18 +28,18 @@
     <meta property="og:locale" content="en_CA">
 
     <!-- Open Graph Banner -->
-    <meta property="og:image" content="https://khaylapaws.me/assets/banner.png">
+    <meta property="og:image" content="https://khaylapaws.me/assets/media/banner.png">
 	<meta property="og:image:alt" content="Image Fetch Fail">
 	<meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
 
     <!-- Twitter -->
     <meta name="twitter:title" content="KhaylaPaws Kreations">
-    <meta name="twitter:description" content=":D Hia! I'm Khayla! <3 I'm a winter fox, I love my softpink #FBBED3. Extra kreative, A little niave and a bit dumb, but very silly :3">
+    <meta name="twitter:description" content="Hii! :D I'm Khayla! A Dumb Subby FoxGirl. And this is my webthingy!">
     <meta name="twitter:creator" content="@KhaylaPaws">
     <meta name="twitter:site" content="@KhaylaPaws">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="https://khaylapaws.me/assets/media.png">
+    <meta name="twitter:image" content="https://khaylapaws.me/assets/media/media.png">
 
     <!-- JS -->
     <script type="application/ld+json">{
@@ -45,7 +47,7 @@
         "@type": "WebSite",
         "name": "KhaylaPaws Kreations",
         "url": "https://khaylapaws.me",
-        "description": ":D Hia! I'm Khayla! <3 I'm a winter fox, I love my softpink #FBBED3. Extra kreative, A little niave and a bit dumb, but very silly :3",
+        "description": "Hii! :D I'm Khayla! A Dumb Subby FoxGirl. And this is my webthingy!",
         "sameAs": [
             "https://twitter.com/KhaylaPaws",
             "https://youtube.com/KhaylaPaws"]}
@@ -53,35 +55,28 @@
 </head>
 
 <body>
+
+<header>
+
+</header>
+
 <!--
 landing page, first impression important, age gate goes here
 
-noscript the y/n age gate versionas fallback
+into to entire website, purpose and functions, epxlanations about pages and guide
 -->
 
 <!-- Universal No-Access Screen -->
-<div id="no-access-screen">
-
-  <!-- Age Gate Container -->
-  <div id="age-gate">
-    <!-- Non-JS fallback toggle (visible by default) -->
-    <div id="fallback-toggle" class="noscript">
+<section id="gate">
+    <form action="home.html">
       <h2>Are you 18 or older?</h2>
-      <div role="button"><a href="home.html#noscript">Yes, continue</a></div>
-    </div>
+      <button type="submit">Yes, continue</button>
+    </form>
+</section>
 
-    <!-- JS-enhanced gate (hidden by default, shown with JS) -->
-    <div id="js-toggle" class="onscript">
-      <h2>Are you 18 or older?</h2>
-      <button onclick="localStorage.setItem('access','true'); location.href='home.html';">
-        Yes, continue
-      </button>
-      <option checkmark>Remember this decision?</option>
-    </div>
-  </div>
-</div>
+<footer>
 
-
+</footer>
 
 
 

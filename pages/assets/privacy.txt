@@ -1,0 +1,31 @@
+PRIVACY POLICY
+Effective Date: October 23, 2025
+
+1. NO DATA COLLECTION
+This website does not collect, store, track, or share any personal data.
+No cookies. No analytics. No hidden scripts. Your visit is private and anonymous.
+
+However, some pages on this site link to or embed third-party services I do not control:
+
+- Ko-fi embedded on the Store page (https://ko-fi.com/privacy)
+
+These services may collect data independently. You are responsible for reviewing their privacy policies before interacting with them.
+
+2. JAVASCRIPT USAGE
+JavaScript is used only for visual enhancements and optional features.
+It is not required to access or navigate most of the site.
+
+Functions that require JavaScript:
+- Age gate confirmation (stored locally in your browser; resets on refresh or new tab)
+- Ko-fi embed on the Store page (powered by JS)
+- Webring widgets (if present)
+
+3. CONTACT
+For questions or concerns about privacy, refer to my GitHub (LINK)
+
+4. VERSIONING
+This policy may be updated at any time without prior notice.
+Any changes will be reflected by a new effective date.
+Continued use of the site after updates constitutes acceptance of the revised policy.
+
+END OF POLICY
