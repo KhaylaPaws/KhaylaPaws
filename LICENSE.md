@@ -19,7 +19,7 @@ Official License Sources:
 - https://khaylapaws.me/LICENSE
 
 Granted Permissions Log:
-| Entity              | Access and Purpose                                                         | Date Granted    | Expired/Revoked     |
-|---------------------|----------------------------------------------------------------------------|-----------------|---------------------|
-| Cloudflare          | Read access to /pages folder to serve website                              | 2025-10-09      | N/A                 |
-|_____________________|____________________________________________________________________________|_________________|_____________________|
+| Entity              | Access and Purpose                                    | Date Granted | Date Expired/Revoked |
+|---------------------|-------------------------------------------------------|--------------|----------------------|
+| Cloudflare          | Read access to /pages folder to serve website         | 2025-10-09   | Revoked: 2025-10-09  |
+|_____________________|_______________________________________________________|______________|______________________|
