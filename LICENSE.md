@@ -23,8 +23,9 @@ Official License Sources:
 
 
 Granted Permissions Log:  
-|-----------------|-----------------------------------------------------------|----------------|----------------|
 | Entity          | Access and Purpose                                        | Date Granted   | Date Expired   |
 |-----------------|-----------------------------------------------------------|----------------|----------------|
 | Cloudflare      | Read access to /pages folder to serve website             | 2025-10-09     | 2025-10-09     |
-|-----------------|-----------------------------------------------------------|----------------|----------------|
+| Cloudflare      | Read access to /pages folder to serve website             | 2025-10-09     | 2025-10-09     |
+| Cloudflare      | Read access to /pages folder to serve website             | 2025-10-09     | 2025-10-09     |
+| Cloudflare      | Read access to /pages folder to serve website             | 2025-10-09     | 2025-10-09     |
