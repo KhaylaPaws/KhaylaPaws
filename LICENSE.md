@@ -9,7 +9,7 @@ No part of any content may be copied, modified, distributed, or used in any othe
 
 
 Permission Requests:  
-Requests to copy, modify, or distribute content will likely be granted upon review. Please contact me directly for written approval via: [insert contact method here]  
+Requests to copy, modify, or distribute content will likely be granted upon review. Please contact me directly for written approval via: INSERT CONTACT  
 
 
 Official Protected Content:  
@@ -18,12 +18,13 @@ Official Protected Content:
 
 
 Official License Sources:
-- https://github.com/KhaylaPaws/KhaylaPaws/blob/main/LICENSE  
+- https://github.com/KhaylaPaws/KhaylaPaws/blob/main/LICENSE.md  
 - https://khaylapaws.me/LICENSE  
 
 
 Granted Permissions Log:  
+|-----------------|-----------------------------------------------------------|----------------|----------------|
 | Entity          | Access and Purpose                                        | Date Granted   | Date Expired   |
 |-----------------|-----------------------------------------------------------|----------------|----------------|
 | Cloudflare      | Read access to /pages folder to serve website             | 2025-10-09     | 2025-10-09     |
-|_________________|___________________________________________________________|________________|________________|
+|-----------------|-----------------------------------------------------------|----------------|----------------|
