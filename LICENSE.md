@@ -3,9 +3,9 @@ License Version: 2.0
 Last Updated: 2025-10-23  
 
 
-This license governs all content found under "Official Protected Content" and any location where this license is referenced.  
+This license governs all content found under "Official Protected Content" and anywhere this license is referenced.  
 Viewing and referencing protected content may be permitted for personal, non-commercial purposes.  
-No part of any content may be copied, modified, distributed, or used in any other form without explicit written permission from Khayla.  
+No part of any content may be copied, modified, distributed, or used in any other form without explicit written permission from KhaylaPaws.  
 
 
 Permission Requests:  
