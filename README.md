@@ -1,14 +1,3 @@
-# Hii! :D
-<!-- Info Badges: -->
-[![Badge Failed](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)](https://github.com/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/Owner/Trusty/?color=pink)](https://github.com/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/163cm/5'4"/?color=pink)](https://github.com/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/52kg/114lb/?color=pink)](https://github.com/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/Color/%23FBBED3/?color=pink)](https://github.com/KhaylaPaws)
-[![Badge Failed](https://badgen.net/badge/Birthday/Oct%2010%202004/?color=pink)](https://github.com/KhaylaPaws)
-<!-- Layout: (Pronouns) | (owner) | (height and weight) | (favorite color) | (Birthday) | (status) -->
-<!-- Badges: She/Her/Hers | Public Property | 163cm/5'4" 52kg/114lb | Pink/White | Oct 10 2004 | Bleh -->
-
 <table>
 <tr>
   <td>
@@ -19,9 +8,13 @@
   <td>
 
 <h2>Khayla Aytine Gallagher</h2>
-A Dumb Subby FoxGirl. Always Open DMs<br>
+<!-- Bios (However many lines fit) -->
+Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs<br>
 A very kreative, kinky and cuddly pet, Owned by Trusty <3<br>
 <p>Loves Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR</p>
+<!-- Primary Greeting, 57/60 57/60 -->
+<!-- Primary Bio 58/60 115/120 -->
+<!-- Secondary bios, 57/60 172/180 -->
   
 ![She/Her/Hers](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)
 ![Owner: Trusty](https://badgen.net/badge/Owner/Trusty/?color=pink)
@@ -32,37 +25,6 @@ A very kreative, kinky and cuddly pet, Owned by Trusty <3<br>
   </td>
 </tr>
 </table>
-
-
-
-
-
-
-
-<br>
-<br>
-
-<!-- Image -->
-<img src="./branding/MMOS-Stitched-PFP-Right.gif" align="left" width="240" border-radius="8px">
-
-<br>
-
-<!-- Bios (However many lines fit) -->
-### ⠀⠀⠀Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
-
-### ⠀⠀⠀A very kreative, kinky and cuddly pet, Owned by Trusty <3
-
-### ⠀⠀⠀Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
-<!-- Primary Greeting, 57/60 57/60 -->
-<!-- Primary Bio 58/60 115/120 -->
-<!-- Secondary bios, 57/60 172/180 -->
-
-<!-- Trait List --> <!-- Submissive/Obedient/KnotPocket/CuddleSlut -->
-<!-- Kink List -->
-
-<br>
-<br>
-<br>
 
 # Socials! :D
 ### Main Socials :>
