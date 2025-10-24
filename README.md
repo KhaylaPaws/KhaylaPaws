@@ -12,30 +12,27 @@
 <table>
   <tr>
     <td>
-      <img src="./media/MMOS-Stitched-PFP-Right.gif" width="240">
+      <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="240">
     </td>
     <td>
 
-      <p><strong>Hii! :D</strong></p>
+      **Hii! :D**
 
-      <!-- Badges -->
-      <p>
-        <img src="https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink">
-        <img src="https://badgen.net/badge/Owner/Trusty/?color=pink">
-        <img src="https://badgen.net/badge/163cm/5'4&quot;/?color=pink">
-        <img src="https://badgen.net/badge/52kg/114lb/?color=pink">
-        <img src="https://badgen.net/badge/Color/%23FBBED3/?color=pink">
-        <img src="https://badgen.net/badge/Birthday/Oct%2010%202004/?color=pink">
-      </p>
+      ![](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)
+      ![](https://badgen.net/badge/Owner/Trusty/?color=pink)
+      ![](https://badgen.net/badge/163cm/5'4%22/?color=pink)
+      ![](https://badgen.net/badge/52kg/114lb/?color=pink)
+      ![](https://badgen.net/badge/Color/%23FBBED3/?color=pink)
+      ![](https://badgen.net/badge/Birthday/Oct%2010%202004/?color=pink)
 
-      <!-- Bios -->
-      <p><strong>I'm Khayla!</strong> A Dumb Subby FoxGirl. Always Open DMs.</p>
-      <p>A very kreative, kinky and cuddly pet, Owned by Trusty &lt;3</p>
-      <p>Loves Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR.</p>
+      **I'm Khayla!** A Dumb Subby FoxGirl. Always Open DMs.  
+      A very kreative, kinky and cuddly pet, Owned by Trusty <3  
+      Loves Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR.
 
     </td>
   </tr>
 </table>
+
 
 
 
