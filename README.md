@@ -10,6 +10,7 @@
 <!-- Badges: She/Her/Hers | Public Property | 163cm/5'4" 52kg/114lb | Pink/White | Oct 10 2004 | Bleh -->
 
 <table>
+<tr>
   <td>
   <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="180">  
 # KhaylaPaws
@@ -27,6 +28,7 @@
 ![Color](https://badgen.net/badge/Color/%23FBBED3/?color=pink)
 ![Birthday](https://badgen.net/badge/Birthday/Oct%2010%202004/?color=pink)
   </td>
+</tr>
 </table>
 
 
