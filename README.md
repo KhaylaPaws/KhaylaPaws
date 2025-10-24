@@ -11,26 +11,21 @@
 
 <table>
   <tr>
-    <td>
-      <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="240">
-    </td>
-    <td>
+  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="240">
 
-      # Hii! :D
+# Hii! :D
 
-      ![She/Her/Hers](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)  
-      ![Owner: Trusty](https://badgen.net/badge/Owner/Trusty/?color=pink)  
-      ![Height](https://badgen.net/badge/163cm/5'4%22/?color=pink)  
-      ![Weight](https://badgen.net/badge/52kg/114lb/?color=pink)  
-      ![Color](https://badgen.net/badge/Color/%23FBBED3/?color=pink)  
-      ![Birthday](https://badgen.net/badge/Birthday/Oct%2010%202004/?color=pink)  
+  ![She/Her/Hers](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)  
+  ![Owner: Trusty](https://badgen.net/badge/Owner/Trusty/?color=pink)  
+  ![Height](https://badgen.net/badge/163cm/5'4%22/?color=pink)  
+  ![Weight](https://badgen.net/badge/52kg/114lb/?color=pink)  
+  ![Color](https://badgen.net/badge/Color/%23FBBED3/?color=pink)  
+  ![Birthday](https://badgen.net/badge/Birthday/Oct%2010%202004/?color=pink)  
 
-      ## I'm Khayla!  
-      A Dumb Subby FoxGirl. Always Open DMs.  
-      A very kreative, kinky and cuddly pet, Owned by Trusty <3  
-      Loves Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR.
-
-    </td>
+  ## I'm Khayla!  
+  A Dumb Subby FoxGirl. Always Open DMs.  
+  A very kreative, kinky and cuddly pet, Owned by Trusty <3  
+  Loves Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR.
   </tr>
 </table>
 
