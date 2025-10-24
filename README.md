@@ -12,7 +12,7 @@
 <table>
 <tr>
   <td>
-  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="130"><br>
+  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="150"><br>
   <h2>KhaylaPaws</h2>
 </td>
 
