@@ -18,9 +18,9 @@
 
   <td>
 
-<h3>Khayla Aytine Gallagher</h3>  
-<p>A Dumb Subby FoxGirl. Always Open DMs</p>
-<p>A very kreative, kinky and cuddly pet, Owned by Trusty <3</p>
+<h2>Khayla Aytine Gallagher</h2>
+A Dumb Subby FoxGirl. Always Open DMs<
+A very kreative, kinky and cuddly pet, Owned by Trusty <3
 <p>Loves Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR</p>
   
 ![She/Her/Hers](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)
