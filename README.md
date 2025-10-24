@@ -18,7 +18,7 @@
 
   <td>
 
-<h2> Khayla Aytine Gallagher<h2>
+<h2> Khayla Aytine Gallagher</h2>
   A Dumb Subby FoxGirl. Always Open DMs.
   <br>
   A very kreative, kinky and cuddly pet, Owned by Trusty <3
