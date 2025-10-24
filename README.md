@@ -12,16 +12,16 @@
 <table>
 <tr>
   <td>
-  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="180"><br>
+  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="140"><br>
   <h3>KhaylaPaws</h3>
 </td>
 
   <td>
 
 <h3>Khayla Aytine Gallagher</h3>  
-  A Dumb Subby FoxGirl. Always Open DMs.  
-  A very kreative, kinky and cuddly pet, Owned by Trusty <3  
-  Loves Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR.
+<p>A Dumb Subby FoxGirl. Always Open DMs</p>
+<p>A very kreative, kinky and cuddly pet, Owned by Trusty <3</p>
+<p>Loves Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR</p>
   
 ![She/Her/Hers](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)
 ![Owner: Trusty](https://badgen.net/badge/Owner/Trusty/?color=pink)
