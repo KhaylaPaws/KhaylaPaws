@@ -10,8 +10,10 @@
 <!-- Badges: She/Her/Hers | Public Property | 163cm/5'4" 52kg/114lb | Pink/White | Oct 10 2004 | Bleh -->
 
 <table>
-  <tr>
+  <td>
   <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="240">
+  </td>
+  <td>
 
 # Hii! :D
 
@@ -26,7 +28,7 @@
   A Dumb Subby FoxGirl. Always Open DMs.  
   A very kreative, kinky and cuddly pet, Owned by Trusty <3  
   Loves Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR.
-  </tr>
+  </td>
 </table>
 
 
