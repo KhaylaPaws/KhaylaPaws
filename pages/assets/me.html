@@ -68,7 +68,7 @@
     }
 
     main {
-      max-width: 800px;
+      max-width: 1000px;
       margin: auto;
     }
 
@@ -95,6 +95,88 @@
       font-size: 0.9rem;
       color: #777;
     }
+
+    .profile-style-1 {
+  background: #fff0f5;
+  border: 2px solid #fbbedd;
+  border-radius: 12px;
+  padding: 1.5em;
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+  overflow: hidden;
+}
+
+.profile-style-1 .profile-pic {
+  float: left;
+  width: 120px;
+  margin-right: 1em;
+  border-radius: 8px;
+}
+
+.profile-style-1 .badges {
+  margin: 0.5em 0;
+}
+
+.profile-style-1 .badge {
+  display: inline-block;
+  background: #fbbedd;
+  color: #fff;
+  font-size: 0.8em;
+  padding: 0.3em 0.6em;
+  border-radius: 999px;
+  margin: 0.2em 0.3em 0.2em 0;
+}
+
+
+
+.profile-style-3 {
+  display: flex;
+  background: #fff0f8;
+  border: 1px solid #fbbedd;
+  border-radius: 10px;
+  font-family: 'Segoe UI', sans-serif;
+  overflow: hidden;
+}
+
+.profile-style-3 .sidebar {
+  background: #fbbedd;
+  padding: 1em;
+  text-align: center;
+  color: white;
+  width: 180px;
+  flex-shrink: 0;
+}
+
+.profile-style-3 .sidebar img {
+  width: 170px;
+  border-radius: 8px;
+  margin-bottom: 5px;;
+}
+
+.profile-style-3 .badge-stack .badge {
+  background: white;
+  color: #f06292;
+  font-size: 0.75em;
+  padding: 0.3em 0.6em;
+  border-radius: 999px;
+  margin: 0.3em 0;
+  display: inline-block;
+}
+
+.profile-style-3 .main {
+  padding: 1.5em;
+  color: #333;
+}
+
+.profile-style-3 .main h2 {
+  margin-top: 0;
+  color: #f06292;
+}
+
+.username {
+  margin: 0;
+}
+
   </style>
 </head>
 <body>
@@ -105,23 +187,56 @@
   </header>
 
   <nav>
-    <button><a href="home.html">Home (You are here)</a></button>
-    <button><a href="page - aboutme.html">About Me</a></button>
+    <button><a href="home.html">Home</a></button>
+    <button><a href="page - aboutme.html">About Me (You are here)</a></button>
     <button><a href="page - abouthim.html">About Him</a></button>
     <button><a href="gallery/gallery.html">Gallery</a></button>
     <button><a href="store/store.html">Store</a></button>
     <button><a href="blog/blog.html">Blog</a></button>
   </nav>
 
-  <div class="identity">
-    <p><strong>Gamer:</strong> KhaylaPaws</p>
-    <p><strong>Projects:</strong> KhaylaPaws Kreations</p>
-    <p><strong>Legal:</strong> Khayla Aytine Gallagher</p>
-    <p><strong>Gender:</strong> Female, She/Her, Naughty Kitten</p>
-    <p><strong>Misc:</strong> Bday: Nov 26 2004 • Scent: Coconut • Size: 5'4", 120lb</p>
-  </div>
 
   <main>
+
+    <section>
+<div class="profile-style-1">
+  <img src="./media/MMOS-Stitched-PFP-Right.gif" alt="Khayla avatar" class="profile-pic">
+  <h2>Hii! :D</h2>
+  <div class="badges">
+    <span class="badge">She/Her/Hers</span>
+    <span class="badge">Owner: Trusty</span>
+    <span class="badge">5'4" • 114lb</span>
+    <span class="badge">#FBBED3</span>
+    <span class="badge">Birthday: Oct 10 2004</span>
+  </div>
+  <p>I'm Khayla! A dumb subby foxgirl. Always open DMs.</p>
+  <p>Kreative, kinky, cuddly pet — owned by Trusty &lt;3</p>
+  <p>Loves pink, 3D modeling, printing, art, coding, gaming, and VR.</p>
+</div>
+</section>
+
+
+<section>
+<div class="profile-style-3">
+  <div class="sidebar">
+    <img src="./media/MMOS-Stitched-PFP-Right.gif" alt="Khayla avatar">
+    <h2 class="username">KhaylaPaws</h2>
+  </div>
+  <div class="main">
+    <h2>Khayla Aytine Gallagher</h2>
+    <p>Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs</p><p>A very kreative, kinky and cuddly pet, Owned by Trusty &lt;3</p><p>Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR</p>
+    <div class="badge-stack">
+      <div class="badge">She/Her</div>
+      <div class="badge">Trusty's Pet</div>
+      <div class="badge">5'4" • 114lb</div>
+      <div class="badge">#FBBED3</div>
+      <div class="badge">Birthday: Oct 10 2004</div>
+    </div>
+  </div>
+</div>
+
+</section>
+
     <section>
       <h2>Name Meaning</h2>
       <p><strong>Khayla:</strong> Slender and fair (Gaelic)</p>

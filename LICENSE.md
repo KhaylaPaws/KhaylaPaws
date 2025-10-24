@@ -18,14 +18,11 @@ Official Protected Content:
 
 
 Official License Sources:
-- https://github.com/KhaylaPaws/KhaylaPaws/blob/main/LICENSE.md  
+- https://github.com/KhaylaPaws/KhaylaPaws/blob/main/LICENSE.md   
 - https://khaylapaws.me/LICENSE  
 
 
 Granted Permissions Log:  
 | Entity          | Access and Purpose                                        | Date Granted   | Date Expired   |
 |-----------------|-----------------------------------------------------------|----------------|----------------|
-| Cloudflare      | Read access to /pages folder to serve website             | 2025-10-09     | 2025-10-09     |
-| Cloudflare      | Read access to /pages folder to serve website             | 2025-10-09     | 2025-10-09     |
-| Cloudflare      | Read access to /pages folder to serve website             | 2025-10-09     | 2025-10-09     |
 | Cloudflare      | Read access to /pages folder to serve website             | 2025-10-09     | 2025-10-09     |

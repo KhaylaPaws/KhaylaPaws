@@ -9,11 +9,41 @@
 <!-- Layout: (Pronouns) | (owner) | (height and weight) | (favorite color) | (Birthday) | (status) -->
 <!-- Badges: She/Her/Hers | Public Property | 163cm/5'4" 52kg/114lb | Pink/White | Oct 10 2004 | Bleh -->
 
+<table>
+  <tr>
+    <td>
+      <img src="./branding/MMOS-Stitched-PFP-Right.gif" width="240" style="border-radius:8px;">
+    </td>
+    <td>
+
+      <h1>Hii! :D</h1>
+
+      <!-- Badges -->
+      <p>
+        <img src="https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink">
+        <img src="https://badgen.net/badge/Owner/Trusty/?color=pink">
+        <img src="https://badgen.net/badge/163cm/5'4&quot;/?color=pink">
+        <img src="https://badgen.net/badge/52kg/114lb/?color=pink">
+        <img src="https://badgen.net/badge/Color/%23FBBED3/?color=pink">
+        <img src="https://badgen.net/badge/Birthday/Oct%2010%202004/?color=pink">
+      </p>
+
+      <!-- Bios -->
+      <p><strong>Hii! :D I'm Khayla!</strong> A Dumb Subby FoxGirl. Always Open DMs.</p>
+      <p>A very kreative, kinky and cuddly pet, Owned by Trusty &lt;3</p>
+      <p>Loves Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR.</p>
+
+    </td>
+  </tr>
+</table>
+
+
+
 <br>
 <br>
 
 <!-- Image -->
-<img src="./branding/MMOS-Stitched-CropPFP-Right.gif" align="left" width="240">
+<img src="./branding/MMOS-Stitched-PFP-Right.gif" align="left" width="240" border-radius="8px">
 
 <br>
 
