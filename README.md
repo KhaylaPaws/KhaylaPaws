@@ -12,11 +12,11 @@
 <table>
   <tr>
     <td>
-      <img src="./branding/MMOS-Stitched-PFP-Right.gif" width="240" style="border-radius:8px;">
+      <img src="./media/MMOS-Stitched-PFP-Right.gif" width="240">
     </td>
     <td>
 
-      <h1>Hii! :D</h1>
+      <p><strong>Hii! :D</strong></p>
 
       <!-- Badges -->
       <p>
@@ -29,13 +29,14 @@
       </p>
 
       <!-- Bios -->
-      <p><strong>Hii! :D I'm Khayla!</strong> A Dumb Subby FoxGirl. Always Open DMs.</p>
+      <p><strong>I'm Khayla!</strong> A Dumb Subby FoxGirl. Always Open DMs.</p>
       <p>A very kreative, kinky and cuddly pet, Owned by Trusty &lt;3</p>
       <p>Loves Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR.</p>
 
     </td>
   </tr>
 </table>
+
 
 
 
