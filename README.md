@@ -11,12 +11,12 @@
 
 <table>
   <td>
-  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="240">
+  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="200">  
 # KhaylaPaws
   </td>
   <td>
 
-## Khayla Aytine Gallagher!
+## Khayla Aytine Gallagher
   A Dumb Subby FoxGirl. Always Open DMs.  
   A very kreative, kinky and cuddly pet, Owned by Trusty <3  
   Loves Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR.
