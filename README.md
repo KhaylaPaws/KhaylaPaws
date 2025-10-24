@@ -11,7 +11,7 @@
 
 <table>
   <td>
-  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="200">  
+  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="180" border-radius="8">  
 # KhaylaPaws
   </td>
   <td>
