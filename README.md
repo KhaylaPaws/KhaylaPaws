@@ -12,9 +12,10 @@
 <table>
 <tr>
   <td>
-  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="180">  
-# KhaylaPaws
-  </td>
+  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="180"><br>
+  <h1>KhaylaPaws</h1>
+</td>
+
   <td>
 
 ## Khayla Aytine Gallagher
