@@ -3,10 +3,13 @@
 <table><tr>
 
 <td>
+
 <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="220"><br>
+
 </td>
 
 <td>
+
 # Khayla Aytine Gallagher
 <!-- Bios (However many lines fit) -->
 ### Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
@@ -15,6 +18,7 @@
 <!-- Primary Greeting, 57/60 57/60 -->
 <!-- Primary Bio 58/60 115/120 -->
 <!-- Secondary bios, 57/60 172/180 -->
+
 </td>
 
 </tr></table>
