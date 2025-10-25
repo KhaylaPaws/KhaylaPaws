@@ -1,3 +1,5 @@
+<div align="center">
+
 <table>
 <tr>
   <td>
@@ -19,6 +21,7 @@
   </td>
 </tr>
 </table>
+</div>
 
 ![She/Her/](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)
 ![Owner: Trusty](https://badgen.net/badge/Owner/Trusty/?color=pink)
