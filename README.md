@@ -6,11 +6,11 @@
 
   <td>
 
-<h2>Khayla Aytine Gallagher</h2>
+# Khayla Aytine Gallagher
 <!-- Bios (However many lines fit) -->
-Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs<br>
-A very kreative, kinky and cuddly pet, Owned by Trusty <3<br>
-<p>Loves Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR</p>
+### Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
+### A very kreative, kinky and cuddly pet, Owned by Trusty <3
+### Loves Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR
 <!-- Primary Greeting, 57/60 57/60 -->
 <!-- Primary Bio 58/60 115/120 -->
 <!-- Secondary bios, 57/60 172/180 -->
