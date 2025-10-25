@@ -1,13 +1,12 @@
 <div align="center">
 
-<table>
-<tr>
-  <td>
-  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="220"><br>
+<table><tr>
+
+<td>
+<img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="220"><br>
 </td>
 
-  <td>
-
+<td>
 # Khayla Aytine Gallagher
 <!-- Bios (However many lines fit) -->
 ### Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs
@@ -16,20 +15,21 @@
 <!-- Primary Greeting, 57/60 57/60 -->
 <!-- Primary Bio 58/60 115/120 -->
 <!-- Secondary bios, 57/60 172/180 -->
-  
+</td>
 
-  </td>
-</tr>
-</table>
+</tr></table>
+
+[![She/Her/](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)](https://khaylapaws.me)
+[![Owner: Trusty](https://badgen.net/badge/Owner/Trusty/?color=pink)](https://khaylapaws.me)
+[![Height](https://badgen.net/badge/163cm/5'4%22/?color=pink)](https://khaylapaws.me)
+[![Weight](https://badgen.net/badge/52kg/114lb/?color=pink)](https://khaylapaws.me)
+[![Color](https://badgen.net/badge/Color/%23FBBED3/?color=pink)](https://khaylapaws.me)
+[![Birthday](https://badgen.net/badge/Birthday/Oct%2010%202004/?color=pink)](https://khaylapaws.me)
+[![More](https://badgen.net/badge/More/>>>/?color=pink)](https://khaylapaws.me)
+
 </div>
 
-![She/Her/](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)
-![Owner: Trusty](https://badgen.net/badge/Owner/Trusty/?color=pink)
-![Height](https://badgen.net/badge/163cm/5'4%22/?color=pink)
-![Weight](https://badgen.net/badge/52kg/114lb/?color=pink)
-![Color](https://badgen.net/badge/Color/%23FBBED3/?color=pink)
-![Birthday](https://badgen.net/badge/Birthday/Oct%2010%202004/?color=pink)
-![More](https://badgen.net/badge/More/>>>/?color=pink)
+
 
 # Socials! :D
 ### Main Socials :>
