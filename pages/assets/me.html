@@ -5,28 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Khayla — Petal Elegance</title>
   <style>
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
     body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
       background: linear-gradient(to bottom right, #fbbed3, #fff0f5);
       color: #4a004a;
       padding: 2rem;
-    }
-
-    header {
       text-align: center;
-      margin-bottom: 1rem;
-    }
-
-    header h1 {
-      font-size: 2.5rem;
-      margin-bottom: 0.3rem;
-    }
-
-    header p {
-      font-style: italic;
-      color: #8b005d;
-      margin: 0;
     }
 
     nav {
@@ -34,7 +26,6 @@
       flex-wrap: wrap;
       justify-content: center;
       gap: 1rem;
-      margin: 2rem 0;
     }
 
     nav button {
@@ -43,42 +34,36 @@
       border-radius: 8px;
       padding: 0.5rem 1rem;
       box-shadow: 0 2px 6px rgba(251, 190, 211, 0.4);
-    }
-
-    nav a {
+      font-size: 20px;
       text-decoration: none;
       color: #8b005d;
       font-weight: bold;
-    }
-
-    .identity {
-      text-align: center;
-      margin-bottom: 2rem;
-      background-color: #fff;
-      border-radius: 12px;
-      padding: 1.5rem;
-      box-shadow: 0 0 20px rgba(251, 190, 211, 0.3);
-      max-width: 600px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-
-    .identity p {
-      margin: 0.5rem 0;
+      cursor: pointer;
     }
 
     main {
-      max-width: 1000px;
-      margin: auto;
+      max-width: 1500px;
     }
 
-    section {
-      background-color: #fff;
-      border-radius: 12px;
-      padding: 1.5rem;
-      box-shadow: 0 0 20px rgba(251, 190, 211, 0.2);
-      margin-bottom: 2rem;
-    }
+header {
+  background-image: url('./media/MMOS-Stitched-Full.gif');
+  background-size: cover;
+  background-position: 50% 32%;
+  max-width: 1500px;
+  padding: 10px 20px 10px;
+  border-radius: 12px;
+  text-align: center;
+  color: black;
+  font-family: sans-serif;
+  box-shadow: inset 0 -80px 100px -40px white;
+  margin-bottom: 20px;
+}
+
+.hero h1 {
+  font-size: 80px;
+}
+
+
 
     h2, h3 {
       color: #d1007f;
@@ -96,145 +81,110 @@
       color: #777;
     }
 
-    .profile-style-1 {
-  background: #fff0f5;
-  border: 2px solid #fbbedd;
-  border-radius: 12px;
-  padding: 1.5em;
-  font-family: 'Segoe UI', sans-serif;
-  color: #333;
-  overflow: hidden;
-}
-
-.profile-style-1 .profile-pic {
-  float: left;
-  width: 120px;
-  margin-right: 1em;
-  border-radius: 8px;
-}
-
-.profile-style-1 .badges {
-  margin: 0.5em 0;
-}
-
-.profile-style-1 .badge {
-  display: inline-block;
-  background: #fbbedd;
-  color: #fff;
-  font-size: 0.8em;
-  padding: 0.3em 0.6em;
-  border-radius: 999px;
-  margin: 0.2em 0.3em 0.2em 0;
-}
 
 
-
-.profile-style-3 {
+section {
   display: flex;
   background: #fff0f8;
   border: 1px solid #fbbedd;
   border-radius: 10px;
   font-family: 'Segoe UI', sans-serif;
   overflow: hidden;
+  box-shadow: 0 0 20px rgba(251, 190, 211, 0.2);
+  margin-top: 2rem;
+  padding: 20px;
 }
 
-.profile-style-3 .sidebar {
-  background: #fbbedd;
-  padding: 1em;
+section h1 {
+  margin-bottom: 10px;
+}
+
+.sidebar {
   text-align: center;
   color: white;
-  width: 180px;
+  width: 250px;
   flex-shrink: 0;
 }
 
-.profile-style-3 .sidebar img {
-  width: 170px;
+.sidebar img {
+  width: 100%;
   border-radius: 8px;
-  margin-bottom: 5px;;
 }
 
-.profile-style-3 .badge-stack .badge {
+.badge-row {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+
+}
+
+.badge {
   background: white;
   color: #f06292;
-  font-size: 0.75em;
+  font-size: 20px;
   padding: 0.3em 0.6em;
-  border-radius: 999px;
+  border-radius: 20px;
   margin: 0.3em 0;
-  display: inline-block;
 }
 
-.profile-style-3 .main {
+.main {
+width: 100%;
   padding: 1.5em;
   color: #333;
-}
-
-.profile-style-3 .main h2 {
-  margin-top: 0;
-  color: #f06292;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
 }
 
 .username {
   margin: 0;
+  color: #f06292;
 }
 
   </style>
 </head>
 <body>
 
-  <header>
-  (banner image)
-    <h1>KhaylaPaws Kreations</h1>
-  </header>
 
-  <nav>
-    <button><a href="home.html">Home</a></button>
-    <button><a href="page - aboutme.html">About Me (You are here)</a></button>
-    <button><a href="page - abouthim.html">About Him</a></button>
-    <button><a href="gallery/gallery.html">Gallery</a></button>
-    <button><a href="store/store.html">Store</a></button>
-    <button><a href="blog/blog.html">Blog</a></button>
-  </nav>
+
+
+
 
 
   <main>
 
-    <section>
-<div class="profile-style-1">
-  <img src="./media/MMOS-Stitched-PFP-Right.gif" alt="Khayla avatar" class="profile-pic">
-  <h2>Hii! :D</h2>
-  <div class="badges">
-    <span class="badge">She/Her/Hers</span>
-    <span class="badge">Owner: Trusty</span>
-    <span class="badge">5'4" • 114lb</span>
-    <span class="badge">#FBBED3</span>
-    <span class="badge">Birthday: Oct 10 2004</span>
-  </div>
-  <p>I'm Khayla! A dumb subby foxgirl. Always open DMs.</p>
-  <p>Kreative, kinky, cuddly pet — owned by Trusty &lt;3</p>
-  <p>Loves pink, 3D modeling, printing, art, coding, gaming, and VR.</p>
-</div>
-</section>
-
+<header class="hero">
+  <h1>KhaylaPaws Kreations</h1>
+    <nav>
+    <button><a href="index.html">Links</a></button>
+    <button><a href="page - aboutme.html">About Me (You are here)</a></button>
+    <button><a href="gallery/gallery.html">Gallery</a></button>
+    <button><a href="store/store.html">Store</a></button>
+    <button><a href="store/store.html">Projects</a></button>
+  </nav>
+</header>
 
 <section>
-<div class="profile-style-3">
   <div class="sidebar">
     <img src="./media/MMOS-Stitched-PFP-Right.gif" alt="Khayla avatar">
-    <h2 class="username">KhaylaPaws</h2>
   </div>
   <div class="main">
-    <h2>Khayla Aytine Gallagher</h2>
-    <p>Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs</p><p>A very kreative, kinky and cuddly pet, Owned by Trusty &lt;3</p><p>Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR</p>
-    <div class="badge-stack">
-      <div class="badge">She/Her</div>
-      <div class="badge">Trusty's Pet</div>
-      <div class="badge">5'4" • 114lb</div>
-      <div class="badge">#FBBED3</div>
-      <div class="badge">Birthday: Oct 10 2004</div>
-    </div>
+    <h1>Khayla Aytine Gallagher</h1>
+    <h2>Hii! :D I'm Khayla! A Dumb Subby FoxGirl. Always Open DMs</h2><h2>A very kreative, kinky and cuddly pet, Owned by Trusty &lt;3</h2><h2>Love Pink, 3Dmodel, 3Dprint, Art, Coding, Gaming, and VR</h2>
   </div>
-</div>
+</section>
 
+<section>
+ <div class="badge-row">
+      <div class="badge">Female - She/Her/Hers</div>
+      <div class="badge">Owner - Trusty <3</div>
+      <div class="badge">163cm - 5'3"</div>
+      <div class="badge">52kg - 114lb</div>
+      <div class="badge">Color - #FBBED3</div>
+      <div class="badge">Birthday - 10/10/2004</div>
+      <div class="badge">More >></div>
+    </div>
 </section>
 
     <section>
