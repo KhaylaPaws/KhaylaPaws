@@ -1,7 +1,7 @@
 <table>
 <tr>
   <td>
-  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="160"><br>
+  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="200"><br>
 </td>
 
   <td>
