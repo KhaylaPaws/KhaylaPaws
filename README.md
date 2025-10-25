@@ -1,7 +1,7 @@
 <table>
 <tr>
   <td>
-  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="150"><br>
+  <img src="pages/assets/media/MMOS-Stitched-PFP-Right.gif" width="160"><br>
 </td>
 
   <td>
@@ -15,15 +15,18 @@ A very kreative, kinky and cuddly pet, Owned by Trusty <3<br>
 <!-- Primary Bio 58/60 115/120 -->
 <!-- Secondary bios, 57/60 172/180 -->
   
-![She/Her/Hers](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)
+
+  </td>
+</tr>
+</table>
+
+![She/Her/](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)
 ![Owner: Trusty](https://badgen.net/badge/Owner/Trusty/?color=pink)
 ![Height](https://badgen.net/badge/163cm/5'4%22/?color=pink)
 ![Weight](https://badgen.net/badge/52kg/114lb/?color=pink)
 ![Color](https://badgen.net/badge/Color/%23FBBED3/?color=pink)
 ![Birthday](https://badgen.net/badge/Birthday/Oct%2010%202004/?color=pink)
-  </td>
-</tr>
-</table>
+![More](https://badgen.net/badge/More/>>>/?color=pink)
 
 # Socials! :D
 ### Main Socials :>
