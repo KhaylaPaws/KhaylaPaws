@@ -24,7 +24,6 @@
 </tr></table>
 
 [![She/Her/](https://badgen.net/badge/Female/She%2FHer%2FHers/?color=pink)](https://khaylapaws.me)
-[![Owner: Trusty](https://badgen.net/badge/Owner/Trusty/?color=pink)](https://khaylapaws.me)
 [![Height](https://badgen.net/badge/163cm/5'4%22/?color=pink)](https://khaylapaws.me)
 [![Weight](https://badgen.net/badge/52kg/114lb/?color=pink)](https://khaylapaws.me)
 [![Color](https://badgen.net/badge/Color/%23FBBED3/?color=pink)](https://khaylapaws.me)
