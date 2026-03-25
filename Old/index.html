@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Vital -->
+	<meta charset="UTF-8">
+    <link rel="canonical" href="https://khaylapaws.me">
+    <meta name="author" content="KhaylaPaws">
+    <link rel="stylesheet" href="assets/index.css">
+    <script src="assets/index.js"></script>
+    <script src="assets/theme.js"></script>
+
+    <!-- Security-->
+     <meta name="referrer" content="strict-origin-when-cross-origin">
+     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'">
+
+    <!-- Compatibility -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Style -->
+    <title>Kreations</title>
+    <meta name="description" content="Hii! :D I'm Khayla! A Dumb Subby FoxGirl. And this is my webthingy!">
+	<meta name="keywords" content="KhaylaPaws, Kreations, NSFW, furry art, foxgirl, commissions, VR, CAD, 3D print, coding">
+    <link rel="icon" type="image/png" href="assets/media/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/media/apple-touch-icon.png">
+    <meta name="theme-color" content="#FBBED3">
+
+    <!-- Open Graph Vital -->
+    <meta property="og:title" content="KhaylaPaws Kreations">
+    <meta property="og:description" content="Hii! :D I'm Khayla! A Dumb Subby FoxGirl. And this is my webthingy!">
+    <meta property="og:url" content="https://khaylapaws.me">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_CA">
+
+    <!-- Open Graph Banner -->
+    <meta property="og:image" content="https://khaylapaws.me/assets/media/banner.png">
+	<meta property="og:image:alt" content="Image Fetch Fail">
+	<meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <!-- Twitter -->
+    <meta name="twitter:title" content="KhaylaPaws Kreations">
+    <meta name="twitter:description" content="Hii! :D I'm Khayla! A Dumb Subby FoxGirl. And this is my webthingy!">
+    <meta name="twitter:creator" content="@KhaylaPaws">
+    <meta name="twitter:site" content="@KhaylaPaws">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://khaylapaws.me/assets/media/media.png">
+
+    <!-- JS -->
+    <script type="application/ld+json">{
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "KhaylaPaws Kreations",
+        "url": "https://khaylapaws.me",
+        "description": "Hii! :D I'm Khayla! A Dumb Subby FoxGirl. And this is my webthingy!",
+        "sameAs": [
+            "https://twitter.com/KhaylaPaws",
+            "https://youtube.com/KhaylaPaws"]}
+    </script>
+</head>
+
+<body>
+<div id="background"></div>
+
+<div id="wrapper" style="display: flex;">
+    <header class="header border">
+        <h1>KhaylaPaws Kreations</h1>
+        <nav>
+            <a class="button border backdrop" href="profile.html">Profile</a>
+            <a class="button border backdrop" href="kinklist.html">KinkList</a>
+            <a class="button border backdrop" href="projects.html">Projects</a>
+            <a class="button border backdrop" href="gallery.html">Gallery</a>
+            <a class="button border backdrop" href="onlypaws.html">OnlyPaws</a>
+            <a class="button border backdrop" href="store.html">Store</a>
+            <span class="button current border" href="index.html">Info</span>
+        </nav>
+    </header>
+
+    <main>
+
+    <section class="section">
+        <div class="content border backdrop glow">
+        <h2>heya! this is my personal website! thank you for visiting</h2>
+        <h3>everything ive ever made is collected into one place that i also maed! feel free to look around and check out my stuff!</h3>
+        <h4>some housekeepings first though</h4>
+        <ul>
+            <li>- this site is mostly made with HTML and CSS, and fully functional without Javascript (with some inconvenincies, but fully usable) you can find out more about this down below. all of my javascript is PURELY visual/QOL enhancments!</li>
+            <li>- the site is also fully accessible and mobile-friendly! i put ALOT of effort into making my site as semantic as possible AND accesible no matter your screensize or input devices!</li>
+            <li>- this site is also 18+ on most other pages, this is the ONLY sfw page. if you arent 18, you may continue reading but there is no point because the rest of the site is off limits, so i recomend you leave, sorry</li>
+            <li>- i store no cookies! i also dont require validation! my privacy policy is simple: i collect nothing!</li>
+            <li>- my site is NOT ai coded in any way! fully handmade with my own paws, enjoy!</li>
+        </ul>
+        </div>
+
+        <aside>
+        <fieldset id="theme" class="backdrop border glow">
+            <legend class="border backdrop glow"><h3>Theme</h3></legend>
+            <ul id="themes" hidden>
+            <li><label class="current button border"><input type="radio" name="theme" id="auto" checked>Auto</label></li>
+            <li><label class="button border"><input type="radio" name="theme" id="light">Light</label></li>
+            <li><label class="button border"><input type="radio" name="theme" id="dark">Dark</label></li>
+            </ul>
+            <noscript>looking for themes? unfortunately, without javascript theres no way to remember or override theme preferences. using css only the best i can do is auto change the theme based on your system preference (this is thanks to "prefers-color-scheme:")</noscript>
+        </fieldset>
+        </aside>
+    </section>
+
+    <section class="section">
+        <div class="content border backdrop glow">
+        <p>javascrtipt is optional! here is the full documentation for this</p>
+        <ul>
+            <li>- without javascript, the age gate doesnt remember if you confirmed it already. i do this using session-storage. its okay though, to reduce frustration all their checkboxes were removed, making it less annoying to confirm the age gate. </li>
+            <li>- without javascript, im unable to show the site after passing the age gate, a fallback button has been provided</li>
+            <li>- please note, that the age gate AND the fallback must both be clicked anytime the url changes or the page is hard reloaded (form submissions are able to remember a limited state if the page is only soft reloaded)</li>
+            <li>- also note, that you can sometimes use the back button of your browser if you micclicked, and then you wont have to confirm the age gate again. i am sorry but this was the best i could do while conforming to my countries laws AND supporting non JS environments</li>
+        </ul>
+        </div>
+    </section>
+
+    </main>
+
+    <nav class="webrings border glow backdrop">
+        <a class="button border backdrop" href="page1.html">Webrings</a>
+        <a class="button border backdrop" href="page2.html">Should go</a>
+        <a class="button border backdrop" href="page3.html">In here</a>
+    </nav>
+
+<footer>
+    <address class="footer">♥ Made without AI and love by Khayla ♥</address>
+    <p class="footer">&copy; 2025-Present All Rights Reserved.</p>
+    <p class="footer">Deployed from GitHub to Cloudflare.</p>
+</footer>
+
+</div>
+
+</div>
+
+
+</body>
+
+</html>

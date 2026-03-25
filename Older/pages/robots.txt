@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /nsfw/
+Allow: /
+
+Sitemap: https://khaylapaws.me/sitemap.xml

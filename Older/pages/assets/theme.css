@@ -1,0 +1,27 @@
+* {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+header {
+    background-image: url('./media/MMOS-Stitched-Full.jpg');
+    background-size: cover;
+    background-position: 50% 32%;
+    box-shadow: inset 0 -80px 100px -40px white;
+}
+
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to bottom, #ffeaf4, #fbbedd);
+    z-index: -1;
+}
+
+div {
+    background: #fff0f8;
+    border: 1px solid #fbbedd;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(251, 190, 211, 0.2);
+}

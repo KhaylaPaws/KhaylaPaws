@@ -1,0 +1,27 @@
+TERMS OF USE
+Effective Date: October 23, 2025
+
+By accessing this website, you confirm that you have read and agree to everyhting within all governing documents:
+- [Terms of Use](/terms.txt): This document. outlines all governing documents
+- [Content Disclaimer] (/disclaimer.txt): Disclaimer about agre restiostions and content
+- [Privacy Policy](/privacy.txt): outlines how your visit is handled.
+- [Copyright License](/LICENSE): governs copyright license regading reuse of all code, assets, and content.
+
+If you disagree with any part of these agreements, you must not access or interact with this site.
+
+2. THIRD-PARTY SERVICES
+This site may link to or embed third-party services I do not control:
+
+- Ko-fi embedded on the Store page (https://ko-fi.com/privacy)
+
+These services may collect data independently. You are responsible for reviewing their terms of use before interacting with them.
+
+3. MODIFICATIONS
+These terms may be updated at any time without prior notice.
+Changes will be reflected by a new effective date.
+Continued use of the site after updates constitutes acceptance of the revised terms.
+
+4. CONTACT
+For questions or concerns about these terms, refer to my GitHub (LINK)
+
+END OF TERMS
