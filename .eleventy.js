@@ -5,7 +5,7 @@ module.exports = function(eleventyConfig) {
     dir: {
       input: "src",
       includes: "layouts",
-      output: ".temp"
+      output: "_site"
     }
   };
 };
